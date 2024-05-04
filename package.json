@@ -1,11 +1,17 @@
 {
   "name": "ipo",
-  "module": "index.ts",
+  "module": "index.js",
   "type": "module",
+  "scripts": {
+    "dev": "bun run --watch index.js"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.13"
   }
 }
