@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.tabel-style {
+		@apply border border-slate-600  dark:border-slate-100;
+	}
+}
