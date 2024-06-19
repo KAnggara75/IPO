@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
@@ -7,25 +7,31 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	</head>
-	<body class="p-10 mx-4 space-y-10">
-		<label for="uw" class="mb-10"
+	<body class="mx-4 space-y-8 bg-white p-10 text-center dark:bg-slate-900 dark:text-slate-200">
+		<label for="uw" class="dark:text-white"
 			>Searching:
-			<input type="text" id="uw" placeholder="Cari UW/TICKER..." class="border border-black rounded-full px-3 w-3/5" />
+			<input
+				type="text"
+				id="uw"
+				placeholder="Cari UW/TICKER..."
+				class="ml-3 w-3/5 rounded-full border border-black px-3 dark:border-white dark:bg-slate-800"
+			/>
 		</label>
-		<table class="mt-10 text-center table-fixed border-collapse border border-slate-500">
+
+		<table class="table-fixed border-collapse border border-slate-600">
 			<thead>
-				<tr>
-					<th class="border border-slate-600 bg-slate-400">CODE</th>
-					<th class="border border-slate-600 bg-slate-400">NAME</th>
-					<th class="border border-slate-600 bg-slate-400">DATE</th>
-					<th class="border border-slate-600 bg-slate-400 px-3">PRICE</th>
-					<th class="border border-slate-600 bg-slate-400">1D</th>
-					<th class="border border-slate-600 bg-slate-400">1W</th>
-					<th class="border border-slate-600 bg-slate-400">1M</th>
-					<th class="border border-slate-600 bg-slate-400">UW</th>
+				<tr class="tabel-style bg-slate-400">
+					<th class="tabel-style">CODE</th>
+					<th class="tabel-style">NAME</th>
+					<th class="tabel-style">DATE</th>
+					<th class="tabel-style">PRICE</th>
+					<th class="tabel-style">1D</th>
+					<th class="tabel-style">1W</th>
+					<th class="tabel-style">1M</th>
+					<th class="tabel-style">UW</th>
 				</tr>
 			</thead>
-			<tbody id="myTable" class="border border-slate-600"></tbody>
+			<tbody id="myTable" class="tabel-style"></tbody>
 		</table>
 		<script src="./assets/script.js" type="module"></script>
 	</body>
