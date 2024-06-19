@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>IPO Histori</title>
+		<link href="./style.css" rel="stylesheet" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	</head>
+	<body class="p-10 mx-4 space-y-2">
+		<p id="judul"></p>
+		<input type="text" id="uw" placeholder="Cari UW/TICKER..." class="border border-black rounded-full px-3 w-4/5" />
+		<table class="text-center table-fixed border-collapse border border-slate-500">
+			<thead>
+				<tr>
+					<th class="border border-slate-600 bg-slate-400">CODE</th>
+					<th class="border border-slate-600 bg-slate-400">NAME</th>
+					<th class="border border-slate-600 bg-slate-400">DATE</th>
+					<th class="border border-slate-600 bg-slate-400">PRICE</th>
+					<th class="border border-slate-600 bg-slate-400">1D</th>
+					<th class="border border-slate-600 bg-slate-400">1W</th>
+					<th class="border border-slate-600 bg-slate-400">1M</th>
+					<th class="border border-slate-600 bg-slate-400">UW</th>
+				</tr>
+			</thead>
+			<tbody id="myTable" class="border border-slate-600"></tbody>
+		</table>
+		<script src="./script.js" type="module"></script>
+	</body>
+</html>

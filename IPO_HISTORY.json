@@ -1,0 +1,5114 @@
+{
+	"ipo": [
+		{
+			"CODE": "PGJO",
+			"NAME": "PT Tourindo Guide Indonesia Tbk",
+			"DATE": "2020-01-08",
+			"PRICE": 80,
+			"D1": 10,
+			"W1": 58,
+			"M1": 10,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "AMAR",
+			"NAME": "PT Bank Amar Indonesia Tbk",
+			"DATE": "2020-01-09",
+			"PRICE": 174,
+			"D1": 69,
+			"W1": 268,
+			"M1": 145,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "CSRA",
+			"NAME": "PT Cisadane Sawit Raya Tbk",
+			"DATE": "2020-01-09",
+			"PRICE": 125,
+			"D1": 70,
+			"W1": 180,
+			"M1": 444,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "INDO",
+			"NAME": "PT Royalindo Investa Wijaya Tbk",
+			"DATE": "2020-01-13",
+			"PRICE": 110,
+			"D1": 70,
+			"W1": 74,
+			"M1": 30,
+			"UW": "BCA SEKURITAS (SQ)"
+		},
+		{
+			"CODE": "AMOR",
+			"NAME": "PT Ashmore Asset Management Indonesia Tbk",
+			"DATE": "2020-01-14",
+			"PRICE": 1900,
+			"D1": 50,
+			"W1": 44,
+			"M1": 24,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "TRIN",
+			"NAME": "PT Perintis Triniti Properti Tbk",
+			"DATE": "2020-01-15",
+			"PRICE": 200,
+			"D1": 70,
+			"W1": 40,
+			"M1": 21,
+			"UW": "ROYAL INVESTIUM SEKURITAS (LH)"
+		},
+		{
+			"CODE": "TRIN",
+			"NAME": "PT Perintis Triniti Properti Tbk",
+			"DATE": "2020-01-15",
+			"PRICE": 200,
+			"D1": 70,
+			"W1": 40,
+			"M1": 21,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "DMND",
+			"NAME": "PT Diamond Food Indonesia Tbk",
+			"DATE": "2020-01-22",
+			"PRICE": 915,
+			"D1": 50,
+			"W1": 17,
+			"M1": 2,
+			"UW": "INDO PREMIER SEKURITAS (PD)"
+		},
+		{
+			"CODE": "PURA",
+			"NAME": "PT Putra Rajawali Kencana Tbk",
+			"DATE": "2020-01-29",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 87,
+			"M1": 36,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "PTPW",
+			"NAME": "PT Pratama Widya Tbk",
+			"DATE": "2020-02-07",
+			"PRICE": 650,
+			"D1": 50,
+			"W1": 37,
+			"M1": 9,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "TAMA",
+			"NAME": "PT Lancartama Sejati Tbk",
+			"DATE": "2020-02-10",
+			"PRICE": 175,
+			"D1": 69,
+			"W1": 137,
+			"M1": 33,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "IKAN",
+			"NAME": "PT Era Mandiri Cemerlang Tbk",
+			"DATE": "2020-02-12",
+			"PRICE": 120,
+			"D1": 70,
+			"W1": 87,
+			"M1": 30,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "AYLS",
+			"NAME": "PT Agro Yasa Lestari Tbk",
+			"DATE": "2020-02-12",
+			"PRICE": 100,
+			"D1": 70,
+			"W1": 172,
+			"M1": -38,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "DADA",
+			"NAME": "PT Diamond Citra Propertindo Tbk",
+			"DATE": "2020-02-14",
+			"PRICE": 102,
+			"D1": 70,
+			"W1": 59,
+			"M1": 145,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "DADA",
+			"NAME": "PT Diamond Citra Propertindo Tbk",
+			"DATE": "2020-02-14",
+			"PRICE": 102,
+			"D1": 70,
+			"W1": 59,
+			"M1": 145,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "ASPI",
+			"NAME": "PT Andalan Sakti Primaindo Tbk",
+			"DATE": "2020-02-17",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 178,
+			"M1": 271,
+			"UW": "INVESTINDO NUSANTARA SEKURITAS (IN)"
+		},
+		{
+			"CODE": "ASPI",
+			"NAME": "PT Andalan Sakti Primaindo Tbk",
+			"DATE": "2020-02-17",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 178,
+			"M1": 271,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "ASPI",
+			"NAME": "PT Andalan Sakti Primaindo Tbk",
+			"DATE": "2020-02-17",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 178,
+			"M1": 271,
+			"UW": "PANCA GLOBAL SEKURITAS (PG)"
+		},
+		{
+			"CODE": "ASPI",
+			"NAME": "PT Andalan Sakti Primaindo Tbk",
+			"DATE": "2020-02-17",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 178,
+			"M1": 271,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "BESS",
+			"NAME": "PT Batulicin Nusantara Maritim Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 90,
+			"M1": 129,
+			"UW": "JASA UTAMA CAPITAL SEKURITAS (YB)"
+		},
+		{
+			"CODE": "BESS",
+			"NAME": "PT Batulicin Nusantara Maritim Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 90,
+			"M1": 129,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "BESS",
+			"NAME": "PT Batulicin Nusantara Maritim Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 90,
+			"M1": 129,
+			"UW": "EKUATOR SWARNA SEKURITAS (MK)"
+		},
+		{
+			"CODE": "BESS",
+			"NAME": "PT Batulicin Nusantara Maritim Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 90,
+			"M1": 129,
+			"UW": "PACIFIC SEKURITAS INDONESIA (AP)"
+		},
+		{
+			"CODE": "BESS",
+			"NAME": "PT Batulicin Nusantara Maritim Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 90,
+			"M1": 129,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "BESS",
+			"NAME": "PT Batulicin Nusantara Maritim Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 105,
+			"D1": 70,
+			"W1": 90,
+			"M1": 129,
+			"UW": "PROFINDO SEKURITAS INDONESIA (RG)"
+		},
+		{
+			"CODE": "ESTA",
+			"NAME": "PT Esta Multi Usaha Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 120,
+			"D1": 70,
+			"W1": 75,
+			"M1": -3,
+			"UW": "JASA UTAMA CAPITAL SEKURITAS (YB)"
+		},
+		{
+			"CODE": "ESTA",
+			"NAME": "PT Esta Multi Usaha Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 120,
+			"D1": 70,
+			"W1": 75,
+			"M1": -3,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "ESTA",
+			"NAME": "PT Esta Multi Usaha Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 120,
+			"D1": 70,
+			"W1": 75,
+			"M1": -3,
+			"UW": "EKUATOR SWARNA SEKURITAS (MK)"
+		},
+		{
+			"CODE": "ESTA",
+			"NAME": "PT Esta Multi Usaha Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 120,
+			"D1": 70,
+			"W1": 75,
+			"M1": -3,
+			"UW": "PACIFIC SEKURITAS INDONESIA (AP)"
+		},
+		{
+			"CODE": "ESTA",
+			"NAME": "PT Esta Multi Usaha Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 120,
+			"D1": 70,
+			"W1": 75,
+			"M1": -3,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "ESTA",
+			"NAME": "PT Esta Multi Usaha Tbk",
+			"DATE": "2020-03-09",
+			"PRICE": 120,
+			"D1": 70,
+			"W1": 75,
+			"M1": -3,
+			"UW": "PROFINDO SEKURITAS INDONESIA (RG)"
+		},
+		{
+			"CODE": "CARE",
+			"NAME": "PT Metro Healthcare Indonesia Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 29,
+			"M1": 207,
+			"UW": "JASA UTAMA CAPITAL SEKURITAS (YB)"
+		},
+		{
+			"CODE": "CARE",
+			"NAME": "PT Metro Healthcare Indonesia Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 29,
+			"M1": 207,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "CARE",
+			"NAME": "PT Metro Healthcare Indonesia Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 29,
+			"M1": 207,
+			"UW": "EKUATOR SWARNA SEKURITAS (MK)"
+		},
+		{
+			"CODE": "CARE",
+			"NAME": "PT Metro Healthcare Indonesia Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 29,
+			"M1": 207,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "CARE",
+			"NAME": "PT Metro Healthcare Indonesia Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 29,
+			"M1": 207,
+			"UW": "PROFINDO SEKURITAS INDONESIA (RG)"
+		},
+		{
+			"CODE": "CARE",
+			"NAME": "PT Metro Healthcare Indonesia Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 29,
+			"M1": 207,
+			"UW": "PACIFIC SEKURITAS INDONESIA (AP)"
+		},
+		{
+			"CODE": "AMAN",
+			"NAME": "PT Makmur Berkah Amanda Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 110,
+			"D1": 35,
+			"W1": 72,
+			"M1": 93,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "AMAN",
+			"NAME": "PT Makmur Berkah Amanda Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 110,
+			"D1": 35,
+			"W1": 72,
+			"M1": 93,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "AMAN",
+			"NAME": "PT Makmur Berkah Amanda Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 110,
+			"D1": 35,
+			"W1": 72,
+			"M1": 93,
+			"UW": "AARTHA SEKURITAS INDONESIA (SH)"
+		},
+		{
+			"CODE": "AMAN",
+			"NAME": "PT Makmur Berkah Amanda Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 110,
+			"D1": 35,
+			"W1": 72,
+			"M1": 93,
+			"UW": "PROFINDO SEKURITAS INDONESIA (RG)"
+		},
+		{
+			"CODE": "AMAN",
+			"NAME": "PT Makmur Berkah Amanda Tbk",
+			"DATE": "2020-03-13",
+			"PRICE": 110,
+			"D1": 35,
+			"W1": 72,
+			"M1": 93,
+			"UW": "MINNA PADI INVESTAMA SEKURITAS TBK (MU)"
+		},
+		{
+			"CODE": "SAMF",
+			"NAME": "PT Saraswanti Anugerah Makmur Tbk",
+			"DATE": "2020-03-31",
+			"PRICE": 120,
+			"D1": 35,
+			"W1": 233,
+			"M1": 218,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "SAMF",
+			"NAME": "PT Saraswanti Anugerah Makmur Tbk",
+			"DATE": "2020-03-31",
+			"PRICE": 120,
+			"D1": 35,
+			"W1": 233,
+			"M1": 218,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "AARTHA SEKURITAS INDONESIA (SH)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "HENAN PUTIHRAI SEKURITAS (HP)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "WATERFRONT SEKURITAS INDONESIA (FZ)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "INDOSURYA BERSINAR SEKURITAS (IP)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK (LS)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "NILAI INTI SEKURITAS (RO)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "ONIX SEKURITAS (FM)"
+		},
+		{
+			"CODE": "KBAG",
+			"NAME": "PT Karya Bersama Anugerah Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 176,
+			"UW": "MINNA PADI INVESTAMA SEKURITAS TBK (MU)"
+		},
+		{
+			"CODE": "SBAT",
+			"NAME": "PT Sejahtera Bintang Abadi Textile Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 105,
+			"D1": 34,
+			"W1": 50,
+			"M1": 16,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "SBAT",
+			"NAME": "PT Sejahtera Bintang Abadi Textile Tbk",
+			"DATE": "2020-04-08",
+			"PRICE": 105,
+			"D1": 34,
+			"W1": 50,
+			"M1": 16,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "RONY",
+			"NAME": "PT Aesler Grup Internasional Tbk",
+			"DATE": "2020-04-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 106,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "CBMF",
+			"NAME": "PT Cahaya Bintang Medan Tbk",
+			"DATE": "2020-04-09",
+			"PRICE": 160,
+			"D1": 35,
+			"W1": 26,
+			"M1": -28,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "CBMF",
+			"NAME": "PT Cahaya Bintang Medan Tbk",
+			"DATE": "2020-04-09",
+			"PRICE": 160,
+			"D1": 35,
+			"W1": 26,
+			"M1": -28,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "CBMF",
+			"NAME": "PT Cahaya Bintang Medan Tbk",
+			"DATE": "2020-04-09",
+			"PRICE": 160,
+			"D1": 35,
+			"W1": 26,
+			"M1": -28,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "CBMF",
+			"NAME": "PT Cahaya Bintang Medan Tbk",
+			"DATE": "2020-04-09",
+			"PRICE": 160,
+			"D1": 35,
+			"W1": 26,
+			"M1": -28,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "CSMI",
+			"NAME": "PT Cipta Selera Murni Tbk",
+			"DATE": "2020-04-09",
+			"PRICE": 196,
+			"D1": 1,
+			"W1": -8,
+			"M1": -10,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "BHAT",
+			"NAME": "PT Bhakti Multi Artha Tbk",
+			"DATE": "2020-04-15",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 172,
+			"M1": 240,
+			"UW": "JASA UTAMA CAPITAL SEKURITAS (YB)"
+		},
+		{
+			"CODE": "BHAT",
+			"NAME": "PT Bhakti Multi Artha Tbk",
+			"DATE": "2020-04-15",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 172,
+			"M1": 240,
+			"UW": "EKUATOR SWARNA SEKURITAS (MK)"
+		},
+		{
+			"CODE": "BHAT",
+			"NAME": "PT Bhakti Multi Artha Tbk",
+			"DATE": "2020-04-15",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 172,
+			"M1": 240,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "BHAT",
+			"NAME": "PT Bhakti Multi Artha Tbk",
+			"DATE": "2020-04-15",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 172,
+			"M1": 240,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "BHAT",
+			"NAME": "PT Bhakti Multi Artha Tbk",
+			"DATE": "2020-04-15",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 172,
+			"M1": 240,
+			"UW": "PROFINDO SEKURITAS INDONESIA (RG)"
+		},
+		{
+			"CODE": "BBSS",
+			"NAME": "PT Bumi Benowo Sukses Sejahtera Tbk",
+			"DATE": "2020-04-15",
+			"PRICE": 120,
+			"D1": 35,
+			"W1": 54,
+			"M1": 36,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "CASH",
+			"NAME": "PT Cashlez Worldwide Indonesia Tbk",
+			"DATE": "2020-05-04",
+			"PRICE": 350,
+			"D1": 10,
+			"W1": 14,
+			"M1": 37,
+			"UW": "SINARMAS SEKURITAS (DH)"
+		},
+		{
+			"CODE": "TECH",
+			"NAME": "PT Indosterling Technomedia Tbk",
+			"DATE": "2020-06-04",
+			"PRICE": 160,
+			"D1": 35,
+			"W1": 50,
+			"M1": -13,
+			"UW": "SINARMAS SEKURITAS (DH)"
+		},
+		{
+			"CODE": "TECH",
+			"NAME": "PT Indosterling Technomedia Tbk",
+			"DATE": "2020-06-04",
+			"PRICE": 160,
+			"D1": 35,
+			"W1": 50,
+			"M1": -13,
+			"UW": "PHILLIP SEKURITAS INDONESIA (KK)"
+		},
+		{
+			"CODE": "TECH",
+			"NAME": "PT Indosterling Technomedia Tbk",
+			"DATE": "2020-06-04",
+			"PRICE": 160,
+			"D1": 35,
+			"W1": 50,
+			"M1": -13,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "EPAC",
+			"NAME": "PT Megalestari Epack Sentosaraya Tbk",
+			"DATE": "2020-07-01",
+			"PRICE": 110,
+			"D1": 35,
+			"W1": 144,
+			"M1": 107,
+			"UW": "SINARMAS SEKURITAS (DH)"
+		},
+		{
+			"CODE": "UANG",
+			"NAME": "PT Pakuan Tbk",
+			"DATE": "2020-07-06",
+			"PRICE": 125,
+			"D1": 34,
+			"W1": 252,
+			"M1": 207,
+			"UW": "SINARMAS SEKURITAS (DH)"
+		},
+		{
+			"CODE": "PGUN",
+			"NAME": "PT Pradiksi Gunatama Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 115,
+			"D1": 35,
+			"W1": 251,
+			"M1": 223,
+			"UW": "INVESTINDO NUSANTARA SEKURITAS (IN)"
+		},
+		{
+			"CODE": "PGUN",
+			"NAME": "PT Pradiksi Gunatama Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 115,
+			"D1": 35,
+			"W1": 251,
+			"M1": 223,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "PGUN",
+			"NAME": "PT Pradiksi Gunatama Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 115,
+			"D1": 35,
+			"W1": 251,
+			"M1": 223,
+			"UW": "PANCA GLOBAL SEKURITAS (PG)"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "HENAN PUTIHRAI SEKURITAS (HP)"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK (LS)"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "ONIX SEKURITAS (FM)"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "NILAI INTI SEKURITAS (RO)"
+		},
+		{
+			"CODE": "SOFA",
+			"NAME": "PT Boston Furniture Industries Tbk",
+			"DATE": "2020-07-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -10,
+			"M1": -26,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "PPGL",
+			"NAME": "PT Prima Globalindo Logistik Tbk",
+			"DATE": "2020-07-20",
+			"PRICE": 110,
+			"D1": 10,
+			"W1": 56,
+			"M1": 80,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "TOYS",
+			"NAME": "PT Sunindo Adipersada Tbk",
+			"DATE": "2020-08-06",
+			"PRICE": 350,
+			"D1": 25,
+			"W1": 83,
+			"M1": 54,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "SGER",
+			"NAME": "PT Sumber Global Energy Tbk",
+			"DATE": "2020-08-10",
+			"PRICE": 108,
+			"D1": 34,
+			"W1": 111,
+			"M1": 191,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "SGER",
+			"NAME": "PT Sumber Global Energy Tbk",
+			"DATE": "2020-08-10",
+			"PRICE": 108,
+			"D1": 34,
+			"W1": 111,
+			"M1": 191,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "TRJA",
+			"NAME": "PT Transkon Jaya Tbk",
+			"DATE": "2020-08-27",
+			"PRICE": 250,
+			"D1": 25,
+			"W1": 11,
+			"M1": -40,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "PNGO",
+			"NAME": "PT Pinago Utama Tbk",
+			"DATE": "2020-08-31",
+			"PRICE": 250,
+			"D1": 25,
+			"W1": 116,
+			"M1": 118,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "KMDS",
+			"NAME": "PT Kurniamitra Duta Sentosa Tbk",
+			"DATE": "2020-09-07",
+			"PRICE": 300,
+			"D1": 25,
+			"W1": 100,
+			"M1": 93,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "BBSI",
+			"NAME": "PT Krom Bank Indonesia Tbk",
+			"DATE": "2020-09-07",
+			"PRICE": 480,
+			"D1": 25,
+			"W1": 52,
+			"M1": 45,
+			"UW": "BINAARTHA SEKURITAS (AR)"
+		},
+		{
+			"CODE": "BBSI",
+			"NAME": "PT Krom Bank Indonesia Tbk",
+			"DATE": "2020-09-07",
+			"PRICE": 480,
+			"D1": 25,
+			"W1": 52,
+			"M1": 45,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "SCNP",
+			"NAME": "PT Selaras Citra Nusantara Perkasa Tbk",
+			"DATE": "2020-09-07",
+			"PRICE": 110,
+			"D1": 35,
+			"W1": 113,
+			"M1": 109,
+			"UW": "CGS-CIMB SEKURITAS INDONESIA (YU)"
+		},
+		{
+			"CODE": "SOHO",
+			"NAME": "PT Soho Global Health Tbk",
+			"DATE": "2020-09-08",
+			"PRICE": 1820,
+			"D1": 25,
+			"W1": 202,
+			"M1": 242,
+			"UW": "INDO PREMIER SEKURITAS (PD)"
+		},
+		{
+			"CODE": "PURI",
+			"NAME": "PT Puri Global Sukses Tbk",
+			"DATE": "2020-09-08",
+			"PRICE": 170,
+			"D1": 34,
+			"W1": 99,
+			"M1": 100,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "ROCK",
+			"NAME": "PT Rockfields Properti Indonesia Tbk",
+			"DATE": "2020-09-10",
+			"PRICE": 1340,
+			"D1": 25,
+			"W1": 26,
+			"M1": -7,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "HOMI",
+			"NAME": "PT Grand House Mulia Tbk",
+			"DATE": "2020-09-10",
+			"PRICE": 380,
+			"D1": 25,
+			"W1": 92,
+			"M1": 161,
+			"UW": "RHB SEKURITAS INDONESIA (DR)"
+		},
+		{
+			"CODE": "HOMI",
+			"NAME": "PT Grand House Mulia Tbk",
+			"DATE": "2020-09-10",
+			"PRICE": 380,
+			"D1": 25,
+			"W1": 92,
+			"M1": 161,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "ENZO",
+			"NAME": "PT Morenzo Abadi Perkasa Tbk",
+			"DATE": "2020-09-14",
+			"PRICE": 105,
+			"D1": 34,
+			"W1": 2,
+			"M1": -52,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "PLAN",
+			"NAME": "PT Planet Properindo Jaya Tbk",
+			"DATE": "2020-09-15",
+			"PRICE": 112,
+			"D1": 10,
+			"W1": 52,
+			"M1": 138,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "PTDU",
+			"NAME": "PT Djasa Ubersakti Tbk",
+			"DATE": "2020-12-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 815,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "ATAP",
+			"NAME": "PT Trimitra Prawara Goldland Tbk",
+			"DATE": "2020-12-11",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 34,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "ATAP",
+			"NAME": "PT Trimitra Prawara Goldland Tbk",
+			"DATE": "2020-12-11",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 34,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK (LS)"
+		},
+		{
+			"CODE": "ATAP",
+			"NAME": "PT Trimitra Prawara Goldland Tbk",
+			"DATE": "2020-12-11",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 34,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "ATAP",
+			"NAME": "PT Trimitra Prawara Goldland Tbk",
+			"DATE": "2020-12-11",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 34,
+			"UW": "AARTHA SEKURITAS INDONESIA (SH)"
+		},
+		{
+			"CODE": "ATAP",
+			"NAME": "PT Trimitra Prawara Goldland Tbk",
+			"DATE": "2020-12-11",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 34,
+			"UW": "PROFINDO SEKURITAS INDONESIA (RG)"
+		},
+		{
+			"CODE": "ATAP",
+			"NAME": "PT Trimitra Prawara Goldland Tbk",
+			"DATE": "2020-12-11",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 34,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "VICI",
+			"NAME": "PT Victoria Care Indonesia Tbk",
+			"DATE": "2020-12-17",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 248,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "PMMP",
+			"NAME": "PT Panca Mitra Multiperdana Tbk",
+			"DATE": "2020-12-18",
+			"PRICE": 336,
+			"D1": 15,
+			"W1": -13,
+			"M1": -20,
+			"UW": "SINARMAS SEKURITAS (DH)"
+		},
+		{
+			"CODE": "PMMP",
+			"NAME": "PT Panca Mitra Multiperdana Tbk",
+			"DATE": "2020-12-18",
+			"PRICE": 336,
+			"D1": 15,
+			"W1": -13,
+			"M1": -20,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "WIFI",
+			"NAME": "PT Solusi Sinergi Digital Tbk",
+			"DATE": "2020-12-30",
+			"PRICE": 530,
+			"D1": 25,
+			"W1": 50,
+			"M1": 20,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "FAPA",
+			"NAME": "PT FAP Agri Tbk",
+			"DATE": "2021-01-04",
+			"PRICE": 1840,
+			"D1": 25,
+			"W1": 42,
+			"M1": 33,
+			"UW": "BCA SEKURITAS (SQ)"
+		},
+		{
+			"CODE": "DCII",
+			"NAME": "PT DCI Indonesia Tbk",
+			"DATE": "2021-01-06",
+			"PRICE": 420,
+			"D1": 25,
+			"W1": 201,
+			"M1": 1864,
+			"UW": "BUANA CAPITAL SEKURITAS (RF)"
+		},
+		{
+			"CODE": "DGNS",
+			"NAME": "PT Diagnos Laboratorium Utama Tbk",
+			"DATE": "2021-01-15",
+			"PRICE": 200,
+			"D1": 35,
+			"W1": 160,
+			"M1": 228,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "BANK",
+			"NAME": "PT Bank Aladin Syariah Tbk",
+			"DATE": "2021-02-01",
+			"PRICE": 103,
+			"D1": 35,
+			"W1": 281,
+			"M1": 1881,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "UFOE",
+			"NAME": "PT Damai Sejahtera Abadi Tbk",
+			"DATE": "2021-02-01",
+			"PRICE": 101,
+			"D1": 35,
+			"W1": 278,
+			"M1": 334,
+			"UW": "INVESTINDO NUSANTARA SEKURITAS (IN)"
+		},
+		{
+			"CODE": "UFOE",
+			"NAME": "PT Damai Sejahtera Abadi Tbk",
+			"DATE": "2021-02-01",
+			"PRICE": 101,
+			"D1": 35,
+			"W1": 278,
+			"M1": 334,
+			"UW": "PANCA GLOBAL SEKURITAS (PG)"
+		},
+		{
+			"CODE": "UFOE",
+			"NAME": "PT Damai Sejahtera Abadi Tbk",
+			"DATE": "2021-02-01",
+			"PRICE": 101,
+			"D1": 35,
+			"W1": 278,
+			"M1": 334,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "CGS-CIMB SEKURITAS INDONESIA (YU)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "SAMUEL SEKURITAS INDONESIA (IF)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "DANASAKTI SEKURITAS INDONESIA (PF)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "PANCA GLOBAL SEKURITAS (PG)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "WATERFRONT SEKURITAS INDONESIA (FZ)"
+		},
+		{
+			"CODE": "WMUU",
+			"NAME": "PT Widodo Makmur Unggas Tbk",
+			"DATE": "2021-02-02",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 37,
+			"M1": 12,
+			"UW": "YULIE SEKURITAS INDONESIA TBK (RS)"
+		},
+		{
+			"CODE": "EDGE",
+			"NAME": "PT Indointernet Tbk",
+			"DATE": "2021-02-08",
+			"PRICE": 7375,
+			"D1": 20,
+			"W1": 147,
+			"M1": 136,
+			"UW": "BCA SEKURITAS (SQ)"
+		},
+		{
+			"CODE": "UNIQ",
+			"NAME": "PT Ulima Nitra Tbk",
+			"DATE": "2021-03-08",
+			"PRICE": 118,
+			"D1": 35,
+			"W1": 35,
+			"M1": 5,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "BEBS",
+			"NAME": "PT Berkah Beton Sadaya Tbk",
+			"DATE": "2021-03-10",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 398,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "SNLK",
+			"NAME": "PT Sunter Lakeside Hotel Tbk",
+			"DATE": "2021-03-29",
+			"PRICE": 150,
+			"D1": 35,
+			"W1": 113,
+			"M1": 387,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "ZYRX",
+			"NAME": "PT Zyrexindo Mandiri Buana Tbk",
+			"DATE": "2021-03-30",
+			"PRICE": 250,
+			"D1": 25,
+			"W1": 118,
+			"M1": 118,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "ZYRX",
+			"NAME": "PT Zyrexindo Mandiri Buana Tbk",
+			"DATE": "2021-03-30",
+			"PRICE": 250,
+			"D1": 25,
+			"W1": 118,
+			"M1": 118,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "LFLO",
+			"NAME": "PT Imago Mulia Persada Tbk",
+			"DATE": "2021-04-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 6,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "LFLO",
+			"NAME": "PT Imago Mulia Persada Tbk",
+			"DATE": "2021-04-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 6,
+			"UW": "HENAN PUTIHRAI SEKURITAS (HP)"
+		},
+		{
+			"CODE": "LFLO",
+			"NAME": "PT Imago Mulia Persada Tbk",
+			"DATE": "2021-04-07",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 6,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK (LS)"
+		},
+		{
+			"CODE": "FIMP",
+			"NAME": "PT Fimperkasa Utama Tbk",
+			"DATE": "2021-04-09",
+			"PRICE": 125,
+			"D1": 10,
+			"W1": -18,
+			"M1": -54,
+			"UW": "WANTEG SEKURITAS (AN)"
+		},
+		{
+			"CODE": "FIMP",
+			"NAME": "PT Fimperkasa Utama Tbk",
+			"DATE": "2021-04-09",
+			"PRICE": 125,
+			"D1": 10,
+			"W1": -18,
+			"M1": -54,
+			"UW": "WANTEG SEKURITAS (AN)"
+		},
+		{
+			"CODE": "TAPG",
+			"NAME": "PT Triputra Agro Persada Tbk",
+			"DATE": "2021-04-12",
+			"PRICE": 200,
+			"D1": 35,
+			"W1": 228,
+			"M1": 288,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "TAPG",
+			"NAME": "PT Triputra Agro Persada Tbk",
+			"DATE": "2021-04-12",
+			"PRICE": 200,
+			"D1": 35,
+			"W1": 228,
+			"M1": 288,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "NPGF",
+			"NAME": "PT Nusa Palapa Gemilang Tbk",
+			"DATE": "2021-04-14",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 48,
+			"M1": 8,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "LUCY",
+			"NAME": "PT Lima Dua Lima Tiga Tbk",
+			"DATE": "2021-05-05",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -18,
+			"M1": -41,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "HOPE",
+			"NAME": "PT Harapan Duta Pertiwi Tbk",
+			"DATE": "2021-05-24",
+			"PRICE": 118,
+			"D1": 35,
+			"W1": 110,
+			"M1": 53,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "HOPE",
+			"NAME": "PT Harapan Duta Pertiwi Tbk",
+			"DATE": "2021-05-24",
+			"PRICE": 118,
+			"D1": 35,
+			"W1": 110,
+			"M1": 53,
+			"UW": "YUANTA SEKURITAS INDONESIA (FS)"
+		},
+		{
+			"CODE": "MGLV",
+			"NAME": "PT Panca Anugrah Wisesa Tbk",
+			"DATE": "2021-06-08",
+			"PRICE": 135,
+			"D1": 10,
+			"W1": 41,
+			"M1": -21,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "MGLV",
+			"NAME": "PT Panca Anugrah Wisesa Tbk",
+			"DATE": "2021-06-08",
+			"PRICE": 135,
+			"D1": 10,
+			"W1": 41,
+			"M1": -21,
+			"UW": "HENAN PUTIHRAI SEKURITAS (HP)"
+		},
+		{
+			"CODE": "TRUE",
+			"NAME": "PT Triniti Dinamik Tbk",
+			"DATE": "2021-06-10",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 440,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "LABA",
+			"NAME": "PT Ladangbaja Murni Tbk",
+			"DATE": "2021-06-10",
+			"PRICE": 125,
+			"D1": 34,
+			"W1": 62,
+			"M1": 127,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "LABA",
+			"NAME": "PT Ladangbaja Murni Tbk",
+			"DATE": "2021-06-10",
+			"PRICE": 125,
+			"D1": 34,
+			"W1": 62,
+			"M1": 127,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "LABA",
+			"NAME": "PT Ladangbaja Murni Tbk",
+			"DATE": "2021-06-10",
+			"PRICE": 125,
+			"D1": 34,
+			"W1": 62,
+			"M1": 127,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK (LS)"
+		},
+		{
+			"CODE": "ARCI",
+			"NAME": "PT Archi Indonesia Tbk",
+			"DATE": "2021-06-28",
+			"PRICE": 750,
+			"D1": 1,
+			"W1": 0,
+			"M1": -8,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "ARCI",
+			"NAME": "PT Archi Indonesia Tbk",
+			"DATE": "2021-06-28",
+			"PRICE": 750,
+			"D1": 1,
+			"W1": 0,
+			"M1": -8,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "ARCI",
+			"NAME": "PT Archi Indonesia Tbk",
+			"DATE": "2021-06-28",
+			"PRICE": 750,
+			"D1": 1,
+			"W1": 0,
+			"M1": -8,
+			"UW": "CITIGROUP SEKURITAS INDONESIA (CG)"
+		},
+		{
+			"CODE": "ARCI",
+			"NAME": "PT Archi Indonesia Tbk",
+			"DATE": "2021-06-28",
+			"PRICE": 750,
+			"D1": 1,
+			"W1": 0,
+			"M1": -8,
+			"UW": "CREDIT SUISSE SEKURITAS INDONESIA (CS)"
+		},
+		{
+			"CODE": "ARCI",
+			"NAME": "PT Archi Indonesia Tbk",
+			"DATE": "2021-06-28",
+			"PRICE": 750,
+			"D1": 1,
+			"W1": 0,
+			"M1": -8,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "IPAC",
+			"NAME": "PT Era Graharealty Tbk",
+			"DATE": "2021-06-30",
+			"PRICE": 120,
+			"D1": 10,
+			"W1": 59,
+			"M1": 15,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "MASB",
+			"NAME": "PT Bank Multiarta Sentosa Tbk",
+			"DATE": "2021-06-30",
+			"PRICE": 3360,
+			"D1": 25,
+			"W1": 3,
+			"M1": 0,
+			"UW": "BCA SEKURITAS (SQ)"
+		},
+		{
+			"CODE": "BMHS",
+			"NAME": "PT Bundamedik Tbk",
+			"DATE": "2021-07-06",
+			"PRICE": 340,
+			"D1": 25,
+			"W1": 201,
+			"M1": 203,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "FLMC",
+			"NAME": "PT Falmaco Nonwoven Industri Tbk",
+			"DATE": "2021-07-08",
+			"PRICE": 200,
+			"D1": 10,
+			"W1": 50,
+			"M1": 106,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "FLMC",
+			"NAME": "PT Falmaco Nonwoven Industri Tbk",
+			"DATE": "2021-07-08",
+			"PRICE": 200,
+			"D1": 10,
+			"W1": 50,
+			"M1": 106,
+			"UW": "WANTEG SEKURITAS (AN)"
+		},
+		{
+			"CODE": "NICL",
+			"NAME": "PT PAM Mineral Tbk",
+			"DATE": "2021-07-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 218,
+			"M1": 53,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "NICL",
+			"NAME": "PT PAM Mineral Tbk",
+			"DATE": "2021-07-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 218,
+			"M1": 53,
+			"UW": "AARTHA SEKURITAS INDONESIA (SH)"
+		},
+		{
+			"CODE": "NICL",
+			"NAME": "PT PAM Mineral Tbk",
+			"DATE": "2021-07-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 218,
+			"M1": 53,
+			"UW": "PANCA GLOBAL SEKURITAS (PG)"
+		},
+		{
+			"CODE": "NICL",
+			"NAME": "PT PAM Mineral Tbk",
+			"DATE": "2021-07-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 218,
+			"M1": 53,
+			"UW": "WATERFRONT SEKURITAS INDONESIA (FZ)"
+		},
+		{
+			"CODE": "NICL",
+			"NAME": "PT PAM Mineral Tbk",
+			"DATE": "2021-07-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 218,
+			"M1": 53,
+			"UW": "HENAN PUTIHRAI SEKURITAS (HP)"
+		},
+		{
+			"CODE": "NICL",
+			"NAME": "PT PAM Mineral Tbk",
+			"DATE": "2021-07-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 218,
+			"M1": 53,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK (LS)"
+		},
+		{
+			"CODE": "NICL",
+			"NAME": "PT PAM Mineral Tbk",
+			"DATE": "2021-07-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 218,
+			"M1": 53,
+			"UW": "NILAI INTI SEKURITAS (RO)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "BUKA",
+			"NAME": "PT Bukalapakcom Tbk",
+			"DATE": "2021-08-06",
+			"PRICE": 850,
+			"D1": 25,
+			"W1": 12,
+			"M1": 5,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "BUANA CAPITAL SEKURITAS (RF)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "BAHANA SEKURITAS (DX)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "BCA SEKURITAS (SQ)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "INVESTINDO NUSANTARA SEKURITAS (IN)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "LOTUS ANDALAN SEKURITAS (YJ)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "PHILLIP SEKURITAS INDONESIA (KK)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "SAMUEL SEKURITAS INDONESIA (IF)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "SINARMAS SEKURITAS (DH)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "UBS SEKURITAS INDONESIA (AK)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "WANTEG SEKURITAS (AN)"
+		},
+		{
+			"CODE": "UVCR",
+			"NAME": "PT Trimegah Karya Pratama Tbk",
+			"DATE": "2021-07-27",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": 374,
+			"UW": "YUANTA SEKURITAS INDONESIA (FS)"
+		},
+		{
+			"CODE": "HAIS",
+			"NAME": "PT Hasnur Internasional Shipping Tbk",
+			"DATE": "2021-09-01",
+			"PRICE": 300,
+			"D1": 25,
+			"W1": -3,
+			"M1": -12,
+			"UW": "RHB SEKURITAS INDONESIA (DR)"
+		},
+		{
+			"CODE": "OILS",
+			"NAME": "PT Indo Oil Perkasa Tbk",
+			"DATE": "2021-09-06",
+			"PRICE": 270,
+			"D1": 24,
+			"W1": 126,
+			"M1": 22,
+			"UW": "KOREA INVESTMENT AND SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "GPSO",
+			"NAME": "PT Geoprima Solusi Tbk",
+			"DATE": "2021-09-06",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 4,
+			"M1": -3,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "GPSO",
+			"NAME": "PT Geoprima Solusi Tbk",
+			"DATE": "2021-09-06",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 4,
+			"M1": -3,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "MCOL",
+			"NAME": "PT Prima Andalan Mandiri Tbk",
+			"DATE": "2021-09-07",
+			"PRICE": 1420,
+			"D1": 10,
+			"W1": 15,
+			"M1": 23,
+			"UW": "BUANA CAPITAL SEKURITAS (RF)"
+		},
+		{
+			"CODE": "RSGK",
+			"NAME": "PT Kedoya Adyaraya Tbk",
+			"DATE": "2021-09-08",
+			"PRICE": 1720,
+			"D1": 25,
+			"W1": 14,
+			"M1": -2,
+			"UW": "BUANA CAPITAL SEKURITAS (RF)"
+		},
+		{
+			"CODE": "GTSI",
+			"NAME": "PT GTS Internasional Tbk",
+			"DATE": "2021-09-08",
+			"PRICE": 100,
+			"D1": -7,
+			"W1": -22,
+			"M1": -26,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK (LS)"
+		},
+		{
+			"CODE": "CMNT",
+			"NAME": "PT Cemindo Gemilang Tbk",
+			"DATE": "2021-09-08",
+			"PRICE": 680,
+			"D1": 25,
+			"W1": 20,
+			"M1": 39,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "CMNT",
+			"NAME": "PT Cemindo Gemilang Tbk",
+			"DATE": "2021-09-08",
+			"PRICE": 680,
+			"D1": 25,
+			"W1": 20,
+			"M1": 39,
+			"UW": "UBS SEKURITAS INDONESIA (AK)"
+		},
+		{
+			"CODE": "CMNT",
+			"NAME": "PT Cemindo Gemilang Tbk",
+			"DATE": "2021-09-08",
+			"PRICE": 680,
+			"D1": 25,
+			"W1": 20,
+			"M1": 39,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "RUNS",
+			"NAME": "PT Global Sukses Solusi Tbk",
+			"DATE": "2021-09-08",
+			"PRICE": 254,
+			"D1": 9,
+			"W1": 58,
+			"M1": 84,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "RUNS",
+			"NAME": "PT Global Sukses Solusi Tbk",
+			"DATE": "2021-09-08",
+			"PRICE": 254,
+			"D1": 9,
+			"W1": 58,
+			"M1": 84,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "SBMA",
+			"NAME": "PT Surya Biru Murni Acetylene Tbk",
+			"DATE": "2021-09-08",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 178,
+			"M1": 143,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "IDEA",
+			"NAME": "PT Idea Indonesia Akademi Tbk",
+			"DATE": "2021-09-09",
+			"PRICE": 140,
+			"D1": 10,
+			"W1": -11,
+			"M1": 41,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "IDEA",
+			"NAME": "PT Idea Indonesia Akademi Tbk",
+			"DATE": "2021-09-09",
+			"PRICE": 140,
+			"D1": 10,
+			"W1": -11,
+			"M1": 41,
+			"UW": "PHILLIP SEKURITAS INDONESIA (KK)"
+		},
+		{
+			"CODE": "KUAS",
+			"NAME": "PT Ace Oldfields Tbk",
+			"DATE": "2021-10-25",
+			"PRICE": 195,
+			"D1": 34,
+			"W1": 12,
+			"M1": 22,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "BOBA",
+			"NAME": "PT Formosa Ingredient Factory Tbk",
+			"DATE": "2021-11-01",
+			"PRICE": 280,
+			"D1": 25,
+			"W1": 10,
+			"M1": -11,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "DANASAKTI SEKURITAS INDONESIA (PF)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "HSBC SEKURITAS INDONESIA (GW)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "INVESTINDO NUSANTARA SEKURITAS (IN)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "JP MORGAN SEKURITAS INDONESIA (BK)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "MORGAN STANLEY SEKURITAS INDONESIA (MS)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "SAMUEL SEKURITAS INDONESIA (IF)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "MTEL",
+			"NAME": "PT Dayamitra Telekomunikasi Tbk",
+			"DATE": "2021-11-22",
+			"PRICE": 800,
+			"D1": -4,
+			"W1": -4,
+			"M1": -4,
+			"UW": "YULIE SEKURITAS INDONESIA TBK (RS)"
+		},
+		{
+			"CODE": "BINO",
+			"NAME": "PT Perma Plasindo Tbk",
+			"DATE": "2021-11-25",
+			"PRICE": 138,
+			"D1": 21,
+			"W1": 1,
+			"M1": 3,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "BINO",
+			"NAME": "PT Perma Plasindo Tbk",
+			"DATE": "2021-11-25",
+			"PRICE": 138,
+			"D1": 21,
+			"W1": 1,
+			"M1": 3,
+			"UW": "PHILLIP SEKURITAS INDONESIA (KK)"
+		},
+		{
+			"CODE": "BINO",
+			"NAME": "PT Perma Plasindo Tbk",
+			"DATE": "2021-11-25",
+			"PRICE": 138,
+			"D1": 21,
+			"W1": 1,
+			"M1": 3,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "DEPO",
+			"NAME": "PT Caturkarda Depo Bangunan Tbk",
+			"DATE": "2021-11-25",
+			"PRICE": 482,
+			"D1": 24,
+			"W1": 27,
+			"M1": 1,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "WGSH",
+			"NAME": "PT Wira Global Solusi Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 140,
+			"D1": 10,
+			"W1": 59,
+			"M1": 15,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "TAYS",
+			"NAME": "PT Jaya Swarasa Agung Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 360,
+			"D1": -7,
+			"W1": -24,
+			"M1": -44,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "TAYS",
+			"NAME": "PT Jaya Swarasa Agung Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 360,
+			"D1": -7,
+			"W1": -24,
+			"M1": -44,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "WMPP",
+			"NAME": "PT Widodo Makmur Perkasa Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 160,
+			"D1": -1,
+			"W1": -6,
+			"M1": -5,
+			"UW": "CIMB NIAGA SEKURITAS"
+		},
+		{
+			"CODE": "WMPP",
+			"NAME": "PT Widodo Makmur Perkasa Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 160,
+			"D1": -1,
+			"W1": -6,
+			"M1": -5,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "WMPP",
+			"NAME": "PT Widodo Makmur Perkasa Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 160,
+			"D1": -1,
+			"W1": -6,
+			"M1": -5,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "WMPP",
+			"NAME": "PT Widodo Makmur Perkasa Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 160,
+			"D1": -1,
+			"W1": -6,
+			"M1": -5,
+			"UW": "SAMUEL SEKURITAS INDONESIA (IF)"
+		},
+		{
+			"CODE": "WMPP",
+			"NAME": "PT Widodo Makmur Perkasa Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 160,
+			"D1": -1,
+			"W1": -6,
+			"M1": -5,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "WMPP",
+			"NAME": "PT Widodo Makmur Perkasa Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 160,
+			"D1": -1,
+			"W1": -6,
+			"M1": -5,
+			"UW": "YULIE SEKURITAS INDONESIA TBK (RS)"
+		},
+		{
+			"CODE": "WMPP",
+			"NAME": "PT Widodo Makmur Perkasa Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 160,
+			"D1": -1,
+			"W1": -6,
+			"M1": -5,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "CMRY",
+			"NAME": "PT Cisarua Mountain Dairy Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 3080,
+			"D1": 11,
+			"W1": 12,
+			"M1": 8,
+			"UW": "CLSA SEKURITAS INDONESIA (KZ)"
+		},
+		{
+			"CODE": "CMRY",
+			"NAME": "PT Cisarua Mountain Dairy Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 3080,
+			"D1": 11,
+			"W1": 12,
+			"M1": 8,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "CMRY",
+			"NAME": "PT Cisarua Mountain Dairy Tbk",
+			"DATE": "2021-12-06",
+			"PRICE": 3080,
+			"D1": 11,
+			"W1": 12,
+			"M1": 8,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "PHILLIP SEKURITAS INDONESIA (KK)"
+		},
+		{
+			"CODE": "OBMD",
+			"NAME": "PT OBM Drilchem Tbk",
+			"DATE": "2021-12-08",
+			"PRICE": 180,
+			"D1": -7,
+			"W1": -22,
+			"M1": -31,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "AVIA",
+			"NAME": "PT Avia Avian Tbk",
+			"DATE": "2021-12-08",
+			"PRICE": 930,
+			"D1": -7,
+			"W1": -5,
+			"M1": -2,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "MORGAN STANLEY SEKURITAS INDONESIA (MS)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "UBS SEKURITAS INDONESIA (AK)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "CREDIT SUISSE SEKURITAS INDONESIA (CS)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "DANASAKTI SEKURITAS INDONESIA (PF)"
+		},
+		{
+			"CODE": "RMKE",
+			"NAME": "PT RMK Energy Tbk",
+			"DATE": "2021-12-07",
+			"PRICE": 206,
+			"D1": -3,
+			"W1": 10,
+			"M1": 10,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "IPPE",
+			"NAME": "PT Indo Pureco Pratama Tbk",
+			"DATE": "2021-12-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 98,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "IPPE",
+			"NAME": "PT Indo Pureco Pratama Tbk",
+			"DATE": "2021-12-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 98,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "NASI",
+			"NAME": "PT Wahana Inti Makmur Tbk",
+			"DATE": "2021-12-13",
+			"PRICE": 155,
+			"D1": 34,
+			"W1": 39,
+			"M1": 154,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "BSML",
+			"NAME": "PT Bintang Samudera Mandiri Lines Tbk",
+			"DATE": "2021-12-16",
+			"PRICE": 117,
+			"D1": 34,
+			"W1": 12,
+			"M1": 247,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "DRMA",
+			"NAME": "PT Dharma Polimetal Tbk",
+			"DATE": "2021-12-20",
+			"PRICE": 500,
+			"D1": -1,
+			"W1": 5,
+			"M1": 27,
+			"UW": "CIMB NIAGA SEKURITAS"
+		},
+		{
+			"CODE": "DRMA",
+			"NAME": "PT Dharma Polimetal Tbk",
+			"DATE": "2021-12-20",
+			"PRICE": 500,
+			"D1": -1,
+			"W1": 5,
+			"M1": 27,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "DRMA",
+			"NAME": "PT Dharma Polimetal Tbk",
+			"DATE": "2021-12-20",
+			"PRICE": 500,
+			"D1": -1,
+			"W1": 5,
+			"M1": 27,
+			"UW": "MNC SEKURITAS (EP)"
+		},
+		{
+			"CODE": "ADMR",
+			"NAME": "PT Adaro Minerals Indonesia Tbk",
+			"DATE": "2022-01-03",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 1085,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "SEMA",
+			"NAME": "PT Semacom Integrated Tbk",
+			"DATE": "2022-01-10",
+			"PRICE": 180,
+			"D1": 34,
+			"W1": 34,
+			"M1": 53,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "ASLC",
+			"NAME": "PT Autopedia Sukses Lestari Tbk",
+			"DATE": "2022-01-25",
+			"PRICE": 256,
+			"D1": 25,
+			"W1": 13,
+			"M1": 2,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "ASLC",
+			"NAME": "PT Autopedia Sukses Lestari Tbk",
+			"DATE": "2022-01-25",
+			"PRICE": 256,
+			"D1": 25,
+			"W1": 13,
+			"M1": 2,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "NETV",
+			"NAME": "PT Net Visi Media Tbk",
+			"DATE": "2022-01-26",
+			"PRICE": 196,
+			"D1": 35,
+			"W1": 227,
+			"M1": 160,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "BAUT",
+			"NAME": "PT Mitra Angkasa Sejahtera Tbk",
+			"DATE": "2022-01-28",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 44,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "ENAK",
+			"NAME": "PT Champ Resto Indonesia Tbk",
+			"DATE": "2022-02-08",
+			"PRICE": 850,
+			"D1": -3,
+			"W1": -13,
+			"M1": -6,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "NTBK",
+			"NAME": "PT Nusatama Berkah Tbk",
+			"DATE": "2022-02-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 3,
+			"M1": -33,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "NTBK",
+			"NAME": "PT Nusatama Berkah Tbk",
+			"DATE": "2022-02-09",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 3,
+			"M1": -33,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "ADCP",
+			"NAME": "PT Adhi Commuter Properti Tbk",
+			"DATE": "2022-02-23",
+			"PRICE": 130,
+			"D1": -6,
+			"W1": -28,
+			"M1": -28,
+			"UW": "CIMB NIAGA SEKURITAS"
+		},
+		{
+			"CODE": "ADCP",
+			"NAME": "PT Adhi Commuter Properti Tbk",
+			"DATE": "2022-02-23",
+			"PRICE": 130,
+			"D1": -6,
+			"W1": -28,
+			"M1": -28,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "ADCP",
+			"NAME": "PT Adhi Commuter Properti Tbk",
+			"DATE": "2022-02-23",
+			"PRICE": 130,
+			"D1": -6,
+			"W1": -28,
+			"M1": -28,
+			"UW": "MAYBANK SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "ADCP",
+			"NAME": "PT Adhi Commuter Properti Tbk",
+			"DATE": "2022-02-23",
+			"PRICE": 130,
+			"D1": -6,
+			"W1": -28,
+			"M1": -28,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "ADCP",
+			"NAME": "PT Adhi Commuter Properti Tbk",
+			"DATE": "2022-02-23",
+			"PRICE": 130,
+			"D1": -6,
+			"W1": -28,
+			"M1": -28,
+			"UW": "INDOSURYA BERSINAR SEKURITAS (IP)"
+		},
+		{
+			"CODE": "ADCP",
+			"NAME": "PT Adhi Commuter Properti Tbk",
+			"DATE": "2022-02-23",
+			"PRICE": 130,
+			"D1": -6,
+			"W1": -28,
+			"M1": -28,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "ADCP",
+			"NAME": "PT Adhi Commuter Properti Tbk",
+			"DATE": "2022-02-23",
+			"PRICE": 130,
+			"D1": -6,
+			"W1": -28,
+			"M1": -28,
+			"UW": "YULIE SEKURITAS INDONESIA TBK (RS)"
+		},
+		{
+			"CODE": "SMKM",
+			"NAME": "PT Sumber Mas Konstruksi Tbk",
+			"DATE": "2022-03-09",
+			"PRICE": 264,
+			"D1": -10,
+			"W1": -33,
+			"M1": -2,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "STAA",
+			"NAME": "PT Sumber Tani Agung Resources Tbk",
+			"DATE": "2022-03-10",
+			"PRICE": 600,
+			"D1": 25,
+			"W1": 36,
+			"M1": 52,
+			"UW": "CIMB NIAGA SEKURITAS"
+		},
+		{
+			"CODE": "STAA",
+			"NAME": "PT Sumber Tani Agung Resources Tbk",
+			"DATE": "2022-03-10",
+			"PRICE": 600,
+			"D1": 25,
+			"W1": 36,
+			"M1": 52,
+			"UW": "DBS VICKERS SEKURITAS INDONESIA (DP)"
+		},
+		{
+			"CODE": "NANO",
+			"NAME": "PT Nanotech Indonesia Global Tbk",
+			"DATE": "2022-03-10",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 60,
+			"M1": -11,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "BIKE",
+			"NAME": "PT Sepeda Bersama Indonesia Tbk",
+			"DATE": "2022-03-21",
+			"PRICE": 170,
+			"D1": 34,
+			"W1": 38,
+			"M1": 1,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "BIKE",
+			"NAME": "PT Sepeda Bersama Indonesia Tbk",
+			"DATE": "2022-03-21",
+			"PRICE": 170,
+			"D1": 34,
+			"W1": 38,
+			"M1": 1,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "BIKE",
+			"NAME": "PT Sepeda Bersama Indonesia Tbk",
+			"DATE": "2022-03-21",
+			"PRICE": 170,
+			"D1": 34,
+			"W1": 38,
+			"M1": 1,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "WIRG",
+			"NAME": "PT WIR ASIA Tbk",
+			"DATE": "2022-04-04",
+			"PRICE": 168,
+			"D1": 35,
+			"W1": 227,
+			"M1": 555,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "SICO",
+			"NAME": "PT Sigma Energy Compressindo Tbk",
+			"DATE": "2022-04-08",
+			"PRICE": 230,
+			"D1": 10,
+			"W1": -16,
+			"M1": -32,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "INDO PREMIER SEKURITAS (PD)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "NILAI INTI SEKURITAS (RO)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "CIMB NIAGA SEKURITAS"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "CREDIT SUISSE SEKURITAS INDONESIA (CS)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "CLSA SEKURITAS INDONESIA (KZ)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "DEUTSCHE SEKURITAS INDONESIA (DB)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "ALDIRACITA SEKURITAS INDONESIA (PP)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "GOTO",
+			"NAME": "PT GoTo Gojek Tokopedia Tbk",
+			"DATE": "2022-04-11",
+			"PRICE": 338,
+			"D1": 13,
+			"W1": 12,
+			"M1": -30,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "TLDN",
+			"NAME": "PT Teladan Prima Agro Tbk",
+			"DATE": "2022-04-12",
+			"PRICE": 580,
+			"D1": 6,
+			"W1": 1,
+			"M1": 17,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "TLDN",
+			"NAME": "PT Teladan Prima Agro Tbk",
+			"DATE": "2022-04-12",
+			"PRICE": 580,
+			"D1": 6,
+			"W1": 1,
+			"M1": 17,
+			"UW": "CIMB NIAGA SEKURITAS"
+		},
+		{
+			"CODE": "MTMH",
+			"NAME": "PT Murni Sadar Tbk",
+			"DATE": "2022-04-20",
+			"PRICE": 1280,
+			"D1": 25,
+			"W1": 21,
+			"M1": 27,
+			"UW": "BCA SEKURITAS (SQ)"
+		},
+		{
+			"CODE": "MTMH",
+			"NAME": "PT Murni Sadar Tbk",
+			"DATE": "2022-04-20",
+			"PRICE": 1280,
+			"D1": 25,
+			"W1": 21,
+			"M1": 27,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "IBOS",
+			"NAME": "PT Indo Boga Sukses Tbk",
+			"DATE": "2022-04-25",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 18,
+			"M1": 21,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "IBOS",
+			"NAME": "PT Indo Boga Sukses Tbk",
+			"DATE": "2022-04-25",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 18,
+			"M1": 21,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "WINR",
+			"NAME": "PT Winner Nusantara Jaya Tbk",
+			"DATE": "2022-04-25",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 112,
+			"M1": 76,
+			"UW": "AARTHA SEKURITAS INDONESIA (SH)"
+		},
+		{
+			"CODE": "WINR",
+			"NAME": "PT Winner Nusantara Jaya Tbk",
+			"DATE": "2022-04-25",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 112,
+			"M1": 76,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "WINR",
+			"NAME": "PT Winner Nusantara Jaya Tbk",
+			"DATE": "2022-04-25",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 112,
+			"M1": 76,
+			"UW": "PANCA GLOBAL SEKURITAS (PG)"
+		},
+		{
+			"CODE": "WINR",
+			"NAME": "PT Winner Nusantara Jaya Tbk",
+			"DATE": "2022-04-25",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 112,
+			"M1": 76,
+			"UW": "YUANTA SEKURITAS INDONESIA (FS)"
+		},
+		{
+			"CODE": "OLIV",
+			"NAME": "PT Oscar Mitra Sukses Sejahtera Tbk",
+			"DATE": "2022-05-17",
+			"PRICE": 100,
+			"D1": 1,
+			"W1": 0,
+			"M1": 1,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "ASHA",
+			"NAME": "PT Cilacap Samudera Fishing Industry Tbk",
+			"DATE": "2022-05-27",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 86,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "ASHA",
+			"NAME": "PT Cilacap Samudera Fishing Industry Tbk",
+			"DATE": "2022-05-27",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 86,
+			"UW": "KOREA INVESTMENT AND SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "SWID",
+			"NAME": "PT Saraswanti Indoland Development Tbk",
+			"DATE": "2022-07-07",
+			"PRICE": 200,
+			"D1": 8,
+			"W1": -19,
+			"M1": -28,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "CHEM",
+			"NAME": "PT Chemstar Indonesia Tbk",
+			"DATE": "2022-07-08",
+			"PRICE": 150,
+			"D1": 3,
+			"W1": -17,
+			"M1": -18,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "ARKO",
+			"NAME": "PT Arkora Hydro Tbk",
+			"DATE": "2022-07-08",
+			"PRICE": 300,
+			"D1": -7,
+			"W1": 5,
+			"M1": 98,
+			"UW": "LOTUS ANDALAN SEKURITAS (YJ)"
+		},
+		{
+			"CODE": "ARKO",
+			"NAME": "PT Arkora Hydro Tbk",
+			"DATE": "2022-07-08",
+			"PRICE": 300,
+			"D1": -7,
+			"W1": 5,
+			"M1": 98,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "TRGU",
+			"NAME": "PT Cerestar Indonesia Tbk",
+			"DATE": "2022-07-08",
+			"PRICE": 210,
+			"D1": 25,
+			"W1": 124,
+			"M1": 62,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "DEWI",
+			"NAME": "PT Dewi Shri Farmindo Tbk",
+			"DATE": "2022-07-18",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 48,
+			"M1": 78,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "DEWI",
+			"NAME": "PT Dewi Shri Farmindo Tbk",
+			"DATE": "2022-07-18",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 48,
+			"M1": 78,
+			"UW": "BINAARTHA SEKURITAS (AR)"
+		},
+		{
+			"CODE": "AXIO",
+			"NAME": "PT Tera Data Indonusa Tbk",
+			"DATE": "2022-07-20",
+			"PRICE": 140,
+			"D1": 35,
+			"W1": 54,
+			"M1": 103,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "AXIO",
+			"NAME": "PT Tera Data Indonusa Tbk",
+			"DATE": "2022-07-20",
+			"PRICE": 140,
+			"D1": 35,
+			"W1": 54,
+			"M1": 103,
+			"UW": "CIMB NIAGA SEKURITAS"
+		},
+		{
+			"CODE": "KRYA",
+			"NAME": "PT Bangun Karya Perkasa Jaya Tbk",
+			"DATE": "2022-07-25",
+			"PRICE": 125,
+			"D1": -6,
+			"W1": -18,
+			"M1": 73,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "HATM",
+			"NAME": "PT Habco Trans Maritima Tbk",
+			"DATE": "2022-07-26",
+			"PRICE": 160,
+			"D1": 2,
+			"W1": 18,
+			"M1": 181,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "RCCC",
+			"NAME": "PT Utama Radar Cahaya Tbk",
+			"DATE": "2022-08-02",
+			"PRICE": 135,
+			"D1": -10,
+			"W1": 6,
+			"M1": -15,
+			"UW": "ELIT SUKSES SEKURITAS"
+		},
+		{
+			"CODE": "GULA",
+			"NAME": "PT Aman Agrindo Tbk",
+			"DATE": "2022-08-03",
+			"PRICE": 250,
+			"D1": 2,
+			"W1": -9,
+			"M1": -16,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "AMMS",
+			"NAME": "PT Agung Menjangan Mas Tbk",
+			"DATE": "2022-08-04",
+			"PRICE": 100,
+			"D1": 5,
+			"W1": 8,
+			"M1": 35,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "JARR",
+			"NAME": "PT Jhonlin Agro Raya Tbk",
+			"DATE": "2022-08-04",
+			"PRICE": 300,
+			"D1": 25,
+			"W1": 68,
+			"M1": 46,
+			"UW": "INVESTINDO NUSANTARA SEKURITAS (IN)"
+		},
+		{
+			"CODE": "JARR",
+			"NAME": "PT Jhonlin Agro Raya Tbk",
+			"DATE": "2022-08-04",
+			"PRICE": 300,
+			"D1": 25,
+			"W1": 68,
+			"M1": 46,
+			"UW": "PANCA GLOBAL SEKURITAS (PG)"
+		},
+		{
+			"CODE": "JARR",
+			"NAME": "PT Jhonlin Agro Raya Tbk",
+			"DATE": "2022-08-04",
+			"PRICE": 300,
+			"D1": 25,
+			"W1": 68,
+			"M1": 46,
+			"UW": "BINAARTHA SEKURITAS (AR)"
+		},
+		{
+			"CODE": "JARR",
+			"NAME": "PT Jhonlin Agro Raya Tbk",
+			"DATE": "2022-08-04",
+			"PRICE": 300,
+			"D1": 25,
+			"W1": 68,
+			"M1": 46,
+			"UW": "LOTUS ANDALAN SEKURITAS (YJ)"
+		},
+		{
+			"CODE": "RAFI",
+			"NAME": "PT Sari Kreasi Boga Tbk",
+			"DATE": "2022-08-05",
+			"PRICE": 126,
+			"D1": 35,
+			"W1": 39,
+			"M1": 84,
+			"UW": "INVESTINDO NUSANTARA SEKURITAS (IN)"
+		},
+		{
+			"CODE": "RAFI",
+			"NAME": "PT Sari Kreasi Boga Tbk",
+			"DATE": "2022-08-05",
+			"PRICE": 126,
+			"D1": 35,
+			"W1": 39,
+			"M1": 84,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "KKES",
+			"NAME": "PT Kusuma Kemindo Sentosa Tbk",
+			"DATE": "2022-08-08",
+			"PRICE": 105,
+			"D1": 21,
+			"W1": 13,
+			"M1": 62,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "EURO",
+			"NAME": "PT Estee Gold Feet Tbk",
+			"DATE": "2022-08-08",
+			"PRICE": 70,
+			"D1": 0,
+			"W1": 0,
+			"M1": 0,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "MORA",
+			"NAME": "PT Mora Telematika Indonesia",
+			"DATE": "2022-08-08",
+			"PRICE": 396,
+			"D1": 25,
+			"W1": 46,
+			"M1": 48,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "MORA",
+			"NAME": "PT Mora Telematika Indonesia",
+			"DATE": "2022-08-08",
+			"PRICE": 396,
+			"D1": 25,
+			"W1": 46,
+			"M1": 48,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "ELPI",
+			"NAME": "PT Pelayaran Nasional Ekalya Purnamasari Tbk",
+			"DATE": "2022-08-08",
+			"PRICE": 200,
+			"D1": 35,
+			"W1": 37,
+			"M1": 14,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "KLIN",
+			"NAME": "PT Klinko Karya Imaji Tbk",
+			"DATE": "2022-08-09",
+			"PRICE": 100,
+			"D1": -10,
+			"W1": -26,
+			"M1": -44,
+			"UW": "ELIT SUKSES SEKURITAS"
+		},
+		{
+			"CODE": "TOOL",
+			"NAME": "PT Rohartindo Nusantara Luas Tbk",
+			"DATE": "2022-08-09",
+			"PRICE": 127,
+			"D1": 35,
+			"W1": 9,
+			"M1": -14,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "BUAH",
+			"NAME": "PT Segar Kumala Indonesia Tbk",
+			"DATE": "2022-08-09",
+			"PRICE": 388,
+			"D1": 25,
+			"W1": 20,
+			"M1": 61,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK (LS)"
+		},
+		{
+			"CODE": "CRAB",
+			"NAME": "PT Toba Surimi Industries Tbk",
+			"DATE": "2022-08-10",
+			"PRICE": 150,
+			"D1": 35,
+			"W1": 56,
+			"M1": 59,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "MEDS",
+			"NAME": "PT Hetzer Medical Indonesia Tbk",
+			"DATE": "2022-08-10",
+			"PRICE": 125,
+			"D1": 34,
+			"W1": 127,
+			"M1": 114,
+			"UW": "WANTEG SEKURITAS (AN)"
+		},
+		{
+			"CODE": "COAL",
+			"NAME": "PT Black Diamond Resources Tbk",
+			"DATE": "2022-09-07",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 280,
+			"M1": 354,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "BSBK",
+			"NAME": "PT Wulandari Bangun Laksana Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 170,
+			"M1": 140,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "BSBK",
+			"NAME": "PT Wulandari Bangun Laksana Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 170,
+			"M1": 140,
+			"UW": "PANCA GLOBAL SEKURITAS (PG)"
+		},
+		{
+			"CODE": "BSBK",
+			"NAME": "PT Wulandari Bangun Laksana Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 170,
+			"M1": 140,
+			"UW": "YUANTA SEKURITAS INDONESIA (FS)"
+		},
+		{
+			"CODE": "BSBK",
+			"NAME": "PT Wulandari Bangun Laksana Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 170,
+			"M1": 140,
+			"UW": "AARTHA SEKURITAS INDONESIA (SH)"
+		},
+		{
+			"CODE": "CBUT",
+			"NAME": "PT Citra Borneo Utama Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 690,
+			"D1": 25,
+			"W1": 21,
+			"M1": 88,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "CBUT",
+			"NAME": "PT Citra Borneo Utama Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 690,
+			"D1": 25,
+			"W1": 21,
+			"M1": 88,
+			"UW": "MAYBANK SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "CBUT",
+			"NAME": "PT Citra Borneo Utama Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 690,
+			"D1": 25,
+			"W1": 21,
+			"M1": 88,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "CBUT",
+			"NAME": "PT Citra Borneo Utama Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 690,
+			"D1": 25,
+			"W1": 21,
+			"M1": 88,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "MKTR",
+			"NAME": "PT Menthobi Karyatama Raya Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 120,
+			"D1": 8,
+			"W1": 9,
+			"M1": 4,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "MKTR",
+			"NAME": "PT Menthobi Karyatama Raya Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 120,
+			"D1": 8,
+			"W1": 9,
+			"M1": 4,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "MKTR",
+			"NAME": "PT Menthobi Karyatama Raya Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 120,
+			"D1": 8,
+			"W1": 9,
+			"M1": 4,
+			"UW": "WANTEG SEKURITAS (AN)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "BCA SEKURITAS (SQ)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "DBS VICKERS SEKURITAS INDONESIA (DP)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "MORGAN STANLEY SEKURITAS INDONESIA (MS)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "DBS VICKERS SEKURITAS INDONESIA (DP)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "INDO PREMIER SEKURITAS (PD)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "YULIE SEKURITAS INDONESIA TBK (RS)"
+		},
+		{
+			"CODE": "BELI",
+			"NAME": "PT Global Digital Niaga Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 450,
+			"D1": 0,
+			"W1": 5,
+			"M1": 6,
+			"UW": "DANASAKTI SEKURITAS INDONESIA (PF)"
+		},
+		{
+			"CODE": "PRAY",
+			"NAME": "PT Famon Awal Bros Sedaya Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 900,
+			"D1": -1,
+			"W1": -16,
+			"M1": -18,
+			"UW": "INDO PREMIER SEKURITAS (PD)"
+		},
+		{
+			"CODE": "OMED",
+			"NAME": "PT Jayamas Medica Industri Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 204,
+			"D1": 24,
+			"W1": 26,
+			"M1": 17,
+			"UW": "CLSA SEKURITAS INDONESIA (KZ)"
+		},
+		{
+			"CODE": "OMED",
+			"NAME": "PT Jayamas Medica Industri Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 204,
+			"D1": 24,
+			"W1": 26,
+			"M1": 17,
+			"UW": "CIMB NIAGA SEKURITAS"
+		},
+		{
+			"CODE": "OMED",
+			"NAME": "PT Jayamas Medica Industri Tbk",
+			"DATE": "2022-11-08",
+			"PRICE": 204,
+			"D1": 24,
+			"W1": 26,
+			"M1": 17,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "KDTN",
+			"NAME": "PT Puri Sentul Permai Tbk",
+			"DATE": "2022-11-09",
+			"PRICE": 150,
+			"D1": 26,
+			"W1": 7,
+			"M1": -8,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "PDPP",
+			"NAME": "PT Primadaya Plastisindo Tbk",
+			"DATE": "2022-11-09",
+			"PRICE": 200,
+			"D1": 35,
+			"W1": 16,
+			"M1": 1,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "ZATA",
+			"NAME": "PT Bersama Zatta Jaya Tbk",
+			"DATE": "2022-11-10",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 182,
+			"M1": 31,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "KETR",
+			"NAME": "PT Ketrosden Triasmitra Tbk",
+			"DATE": "2022-11-10",
+			"PRICE": 300,
+			"D1": 7,
+			"W1": -6,
+			"M1": -25,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "NINE",
+			"NAME": "PT Techno9 Indonesia Tbk",
+			"DATE": "2022-12-05",
+			"PRICE": 75,
+			"D1": -8,
+			"W1": -37,
+			"M1": -39,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "NINE",
+			"NAME": "PT Techno9 Indonesia Tbk",
+			"DATE": "2022-12-05",
+			"PRICE": 75,
+			"D1": -8,
+			"W1": -37,
+			"M1": -39,
+			"UW": "ELIT SUKSES SEKURITAS"
+		},
+		{
+			"CODE": "MMIX",
+			"NAME": "PT Multi Medika Internasional Tbk",
+			"DATE": "2022-12-06",
+			"PRICE": 190,
+			"D1": 35,
+			"W1": 27,
+			"M1": 71,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "PADA",
+			"NAME": "PT Personel Alih Daya Tbk",
+			"DATE": "2022-12-08",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 10,
+			"M1": 144,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "PADA",
+			"NAME": "PT Personel Alih Daya Tbk",
+			"DATE": "2022-12-08",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 10,
+			"M1": 144,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "ISAP",
+			"NAME": "PT Isra Presisi Indonesia Tbk",
+			"DATE": "2022-12-09",
+			"PRICE": 96,
+			"D1": -9,
+			"W1": -26,
+			"M1": 17,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "VTNY",
+			"NAME": "PT Venteny Fortuna International Tbk",
+			"DATE": "2022-12-15",
+			"PRICE": 360,
+			"D1": 10,
+			"W1": 12,
+			"M1": 18,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "VTNY",
+			"NAME": "PT Venteny Fortuna International Tbk",
+			"DATE": "2022-12-15",
+			"PRICE": 360,
+			"D1": 10,
+			"W1": 12,
+			"M1": 18,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "VTNY",
+			"NAME": "PT Venteny Fortuna International Tbk",
+			"DATE": "2022-12-15",
+			"PRICE": 360,
+			"D1": 10,
+			"W1": 12,
+			"M1": 18,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "VTNY",
+			"NAME": "PT Venteny Fortuna International Tbk",
+			"DATE": "2022-12-15",
+			"PRICE": 360,
+			"D1": 10,
+			"W1": 12,
+			"M1": 18,
+			"UW": "MEGA CAPITAL SEKURITAS (CD)"
+		},
+		{
+			"CODE": "ELIT",
+			"NAME": "PT Data Sinergitama Jaya Tbk",
+			"DATE": "2023-01-06",
+			"PRICE": 120,
+			"D1": -7,
+			"W1": 41,
+			"M1": 13,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "CBPE",
+			"NAME": "PT Citra Buana Prasida Tbk",
+			"DATE": "2023-01-06",
+			"PRICE": 150,
+			"D1": -1,
+			"W1": 19,
+			"M1": -1,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "BEER",
+			"NAME": "PT Jobubu Jarum Minahasa Tbk",
+			"DATE": "2023-01-06",
+			"PRICE": 220,
+			"D1": 17,
+			"W1": 25,
+			"M1": 66,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "SOUL",
+			"NAME": "PT Mitra Tirta Buwana Tbk",
+			"DATE": "2023-01-06",
+			"PRICE": 110,
+			"D1": -10,
+			"W1": -36,
+			"M1": -59,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "SOUL",
+			"NAME": "PT Mitra Tirta Buwana Tbk",
+			"DATE": "2023-01-06",
+			"PRICE": 110,
+			"D1": -10,
+			"W1": -36,
+			"M1": -59,
+			"UW": "WANTEG SEKURITAS (AN)"
+		},
+		{
+			"CODE": "CBRE",
+			"NAME": "PT Cakra Buana Resources Energi Tbk",
+			"DATE": "2023-01-09",
+			"PRICE": 108,
+			"D1": 34,
+			"W1": 47,
+			"M1": -17,
+			"UW": "RHB SEKURITAS INDONESIA (DR)"
+		},
+		{
+			"CODE": "CBRE",
+			"NAME": "PT Cakra Buana Resources Energi Tbk",
+			"DATE": "2023-01-09",
+			"PRICE": 108,
+			"D1": 34,
+			"W1": 47,
+			"M1": -17,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "SUNI",
+			"NAME": "PT Sunindo Pratama Tbk",
+			"DATE": "2023-01-09",
+			"PRICE": 300,
+			"D1": 0,
+			"W1": 1,
+			"M1": -1,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "WINE",
+			"NAME": "PT Hatten Bali Tbk",
+			"DATE": "2023-01-10",
+			"PRICE": 129,
+			"D1": 35,
+			"W1": 134,
+			"M1": 185,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "BMBL",
+			"NAME": "PT Lavender Bina Cendikia Tbk",
+			"DATE": "2023-01-11",
+			"PRICE": 188,
+			"D1": -10,
+			"W1": -40,
+			"M1": -65,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "BMBL",
+			"NAME": "PT Lavender Bina Cendikia Tbk",
+			"DATE": "2023-01-11",
+			"PRICE": 188,
+			"D1": -10,
+			"W1": -40,
+			"M1": -65,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "PEVE",
+			"NAME": "PT Penta Valent Tbk",
+			"DATE": "2023-01-24",
+			"PRICE": 149,
+			"D1": 34,
+			"W1": 48,
+			"M1": 32,
+			"UW": "LOTUS ANDALAN SEKURITAS (YJ)"
+		},
+		{
+			"CODE": "LAJU",
+			"NAME": "PT Jasa Berdikari Logistics Tbk",
+			"DATE": "2023-01-27",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 41,
+			"M1": 144,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "FWCT",
+			"NAME": "PT Wijaya Cahaya Timber Tbk",
+			"DATE": "2023-02-01",
+			"PRICE": 118,
+			"D1": 35,
+			"W1": 2,
+			"M1": -7,
+			"UW": "LOTUS ANDALAN SEKURITAS (YJ)"
+		},
+		{
+			"CODE": "NAYZ",
+			"NAME": "PT Hassana Boga Sejahtera Tbk",
+			"DATE": "2023-02-06",
+			"PRICE": 100,
+			"D1": -10,
+			"W1": -28,
+			"M1": -3,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "IRSX",
+			"NAME": "PT Aviana Sinar Abadi Tbk",
+			"DATE": "2023-02-07",
+			"PRICE": 101,
+			"D1": 2,
+			"W1": -7,
+			"M1": -9,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "PACK",
+			"NAME": "PT Solusi Kemasan Digital Tbk",
+			"DATE": "2023-02-08",
+			"PRICE": 162,
+			"D1": -10,
+			"W1": -37,
+			"M1": -33,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "CHIP",
+			"NAME": "PT Pelita Teknologi Global Tbk",
+			"DATE": "2023-02-08",
+			"PRICE": 160,
+			"D1": 10,
+			"W1": 44,
+			"M1": 322,
+			"UW": "LOTUS ANDALAN SEKURITAS (YJ)"
+		},
+		{
+			"CODE": "VAST",
+			"NAME": "PT Vastland Indonesia Tbk",
+			"DATE": "2023-02-08",
+			"PRICE": 108,
+			"D1": -6,
+			"W1": 0,
+			"M1": -8,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "HALO",
+			"NAME": "PT Haloni Jane Tbk",
+			"DATE": "2023-02-08",
+			"PRICE": 100,
+			"D1": 17,
+			"W1": 19,
+			"M1": 17,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "HALO",
+			"NAME": "PT Haloni Jane Tbk",
+			"DATE": "2023-02-08",
+			"PRICE": 100,
+			"D1": 17,
+			"W1": 19,
+			"M1": 17,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "KING",
+			"NAME": "PT Hoffmen Cleanindo Tbk",
+			"DATE": "2023-02-16",
+			"PRICE": 130,
+			"D1": -10,
+			"W1": -12,
+			"M1": 32,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "PGEO",
+			"NAME": "PT Pertamina Geothermal Energy Tbk",
+			"DATE": "2023-02-24",
+			"PRICE": 875,
+			"D1": 0,
+			"W1": -1,
+			"M1": -9,
+			"UW": "CLSA SEKURITAS INDONESIA (KZ)"
+		},
+		{
+			"CODE": "PGEO",
+			"NAME": "PT Pertamina Geothermal Energy Tbk",
+			"DATE": "2023-02-24",
+			"PRICE": 875,
+			"D1": 0,
+			"W1": -1,
+			"M1": -9,
+			"UW": "CREDIT SUISSE SEKURITAS INDONESIA (CS)"
+		},
+		{
+			"CODE": "PGEO",
+			"NAME": "PT Pertamina Geothermal Energy Tbk",
+			"DATE": "2023-02-24",
+			"PRICE": 875,
+			"D1": 0,
+			"W1": -1,
+			"M1": -9,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "PGEO",
+			"NAME": "PT Pertamina Geothermal Energy Tbk",
+			"DATE": "2023-02-24",
+			"PRICE": 875,
+			"D1": 0,
+			"W1": -1,
+			"M1": -9,
+			"UW": "HSBC SEKURITAS INDONESIA (GW)"
+		},
+		{
+			"CODE": "PGEO",
+			"NAME": "PT Pertamina Geothermal Energy Tbk",
+			"DATE": "2023-02-24",
+			"PRICE": 875,
+			"D1": 0,
+			"W1": -1,
+			"M1": -9,
+			"UW": "BAHANA SEKURITAS (DX)"
+		},
+		{
+			"CODE": "PGEO",
+			"NAME": "PT Pertamina Geothermal Energy Tbk",
+			"DATE": "2023-02-24",
+			"PRICE": 875,
+			"D1": 0,
+			"W1": -1,
+			"M1": -9,
+			"UW": "DANASAKTI SEKURITAS INDONESIA (PF)"
+		},
+		{
+			"CODE": "PGEO",
+			"NAME": "PT Pertamina Geothermal Energy Tbk",
+			"DATE": "2023-02-24",
+			"PRICE": 875,
+			"D1": 0,
+			"W1": -1,
+			"M1": -9,
+			"UW": "SAMUEL SEKURITAS INDONESIA (IF)"
+		},
+		{
+			"CODE": "FUTR",
+			"NAME": "PT Lini Imaji Kreasi Ekosistem Tbk",
+			"DATE": "2023-02-27",
+			"PRICE": 100,
+			"D1": 0,
+			"W1": 42,
+			"M1": 21,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "FUTR",
+			"NAME": "PT Lini Imaji Kreasi Ekosistem Tbk",
+			"DATE": "2023-02-27",
+			"PRICE": 100,
+			"D1": 0,
+			"W1": 42,
+			"M1": 21,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "HILL",
+			"NAME": "PT Hillcon Tbk",
+			"DATE": "2023-03-01",
+			"PRICE": 1250,
+			"D1": 6,
+			"W1": 26,
+			"M1": 62,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "HILL",
+			"NAME": "PT Hillcon Tbk",
+			"DATE": "2023-03-01",
+			"PRICE": 1250,
+			"D1": 6,
+			"W1": 26,
+			"M1": 62,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "HILL",
+			"NAME": "PT Hillcon Tbk",
+			"DATE": "2023-03-01",
+			"PRICE": 1250,
+			"D1": 6,
+			"W1": 26,
+			"M1": 62,
+			"UW": "MACQUARIE SEKURITAS INDONESIA (RX)"
+		},
+		{
+			"CODE": "BDKR",
+			"NAME": "PT Berdikari Pondasi Perkasa Tbk",
+			"DATE": "2023-03-03",
+			"PRICE": 200,
+			"D1": 15,
+			"W1": 29,
+			"M1": 28,
+			"UW": "SEMESTA INDOVEST SEKURITAS (MG)"
+		},
+		{
+			"CODE": "PTMP",
+			"NAME": "PT Mitra Pack Tbk",
+			"DATE": "2023-03-06",
+			"PRICE": 120,
+			"D1": 19,
+			"W1": 13,
+			"M1": 77,
+			"UW": "NH KORINDO SEKURITAS INDONESIA (XA)"
+		},
+		{
+			"CODE": "TRON",
+			"NAME": "PT Teknologi Karya Digital Nusa Tbk",
+			"DATE": "2023-03-08",
+			"PRICE": 180,
+			"D1": 31,
+			"W1": 50,
+			"M1": 53,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "SAGE",
+			"NAME": "PT Saausaha Gemilangindah Tbk",
+			"DATE": "2023-03-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 40,
+			"M1": 272,
+			"UW": "DANATAMA MAKMUR SEKURITAS (II)"
+		},
+		{
+			"CODE": "SAGE",
+			"NAME": "PT Saausaha Gemilangindah Tbk",
+			"DATE": "2023-03-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 40,
+			"M1": 272,
+			"UW": "AARTHA SEKURITAS INDONESIA (SH)"
+		},
+		{
+			"CODE": "CUAN",
+			"NAME": "PT Petrindo Jaya Kreasi Tbk",
+			"DATE": "2023-03-08",
+			"PRICE": 220,
+			"D1": 25,
+			"W1": 200,
+			"M1": 309,
+			"UW": "HENAN PUTIHRAI SEKURITAS (HP)"
+		},
+		{
+			"CODE": "CUAN",
+			"NAME": "PT Petrindo Jaya Kreasi Tbk",
+			"DATE": "2023-03-08",
+			"PRICE": 220,
+			"D1": 25,
+			"W1": 200,
+			"M1": 309,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "NSSS",
+			"NAME": "PT Nusantara Sawit Sejahtera Tbk",
+			"DATE": "2023-03-10",
+			"PRICE": 127,
+			"D1": 6,
+			"W1": 3,
+			"M1": 14,
+			"UW": "SAMUEL SEKURITAS INDONESIA (IF)"
+		},
+		{
+			"CODE": "NSSS",
+			"NAME": "PT Nusantara Sawit Sejahtera Tbk",
+			"DATE": "2023-03-10",
+			"PRICE": 127,
+			"D1": 6,
+			"W1": 3,
+			"M1": 14,
+			"UW": "BRI DANAREKSA SEKURITAS (OD)"
+		},
+		{
+			"CODE": "NSSS",
+			"NAME": "PT Nusantara Sawit Sejahtera Tbk",
+			"DATE": "2023-03-10",
+			"PRICE": 127,
+			"D1": 6,
+			"W1": 3,
+			"M1": 14,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "NSSS",
+			"NAME": "PT Nusantara Sawit Sejahtera Tbk",
+			"DATE": "2023-03-10",
+			"PRICE": 127,
+			"D1": 6,
+			"W1": 3,
+			"M1": 14,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA (YP)"
+		},
+		{
+			"CODE": "NSSS",
+			"NAME": "PT Nusantara Sawit Sejahtera Tbk",
+			"DATE": "2023-03-10",
+			"PRICE": 127,
+			"D1": 6,
+			"W1": 3,
+			"M1": 14,
+			"UW": "YULIE SEKURITAS INDONESIA TBK (RS)"
+		},
+		{
+			"CODE": "NSSS",
+			"NAME": "PT Nusantara Sawit Sejahtera Tbk",
+			"DATE": "2023-03-10",
+			"PRICE": 127,
+			"D1": 6,
+			"W1": 3,
+			"M1": 14,
+			"UW": "PHILLIP SEKURITAS INDONESIA (KK)"
+		},
+		{
+			"CODE": "NSSS",
+			"NAME": "PT Nusantara Sawit Sejahtera Tbk",
+			"DATE": "2023-03-10",
+			"PRICE": 127,
+			"D1": 6,
+			"W1": 3,
+			"M1": 14,
+			"UW": "DANASAKTI SEKURITAS INDONESIA (PF)"
+		},
+		{
+			"CODE": "GTRA",
+			"NAME": "PT Grahaprima Suksesmandiri Tbk",
+			"DATE": "2023-03-30",
+			"PRICE": 150,
+			"D1": 35,
+			"W1": 85,
+			"M1": 77,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "HAJJ",
+			"NAME": "PT Arsy Buana Travelindo Tbk",
+			"DATE": "2023-04-05",
+			"PRICE": 140,
+			"D1": 10,
+			"W1": 25,
+			"M1": 211,
+			"UW": "SURYA FAJAR SEKURITAS"
+		},
+		{
+			"CODE": "PIPA",
+			"NAME": "PT Multi Makmur Lemindo Tbk",
+			"DATE": "2023-04-10",
+			"PRICE": 105,
+			"D1": 34,
+			"W1": 60,
+			"M1": 1,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "NCKL",
+			"NAME": "PT Trimegah Bangun Persada Tbk",
+			"DATE": "2023-04-12",
+			"PRICE": 1250,
+			"D1": 4,
+			"W1": 16,
+			"M1": -10,
+			"UW": "BNP PARIBAS SECURITIES INDONESIA (BW)"
+		},
+		{
+			"CODE": "NCKL",
+			"NAME": "PT Trimegah Bangun Persada Tbk",
+			"DATE": "2023-04-12",
+			"PRICE": 1250,
+			"D1": 4,
+			"W1": 16,
+			"M1": -10,
+			"UW": "CITIGROUP SEKURITAS INDONESIA (CG)"
+		},
+		{
+			"CODE": "NCKL",
+			"NAME": "PT Trimegah Bangun Persada Tbk",
+			"DATE": "2023-04-12",
+			"PRICE": 1250,
+			"D1": 4,
+			"W1": 16,
+			"M1": -10,
+			"UW": "CREDIT SUISSE SEKURITAS INDONESIA (CS)"
+		},
+		{
+			"CODE": "NCKL",
+			"NAME": "PT Trimegah Bangun Persada Tbk",
+			"DATE": "2023-04-12",
+			"PRICE": 1250,
+			"D1": 4,
+			"W1": 16,
+			"M1": -10,
+			"UW": "MANDIRI SEKURITAS (CC)"
+		},
+		{
+			"CODE": "NCKL",
+			"NAME": "PT Trimegah Bangun Persada Tbk",
+			"DATE": "2023-04-12",
+			"PRICE": 1250,
+			"D1": 4,
+			"W1": 16,
+			"M1": -10,
+			"UW": "DBS VICKERS SEKURITAS INDONESIA (DP)"
+		},
+		{
+			"CODE": "NCKL",
+			"NAME": "PT Trimegah Bangun Persada Tbk",
+			"DATE": "2023-04-12",
+			"PRICE": 1250,
+			"D1": 4,
+			"W1": 16,
+			"M1": -10,
+			"UW": "OCBC SEKURITAS INDONESIA (TP)"
+		},
+		{
+			"CODE": "NCKL",
+			"NAME": "PT Trimegah Bangun Persada Tbk",
+			"DATE": "2023-04-12",
+			"PRICE": 1250,
+			"D1": 4,
+			"W1": 16,
+			"M1": -10,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "MBMA",
+			"NAME": "PT Merdeka Battery Materials Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 795,
+			"D1": 11,
+			"W1": 1,
+			"M1": -1,
+			"UW": "INDO PREMIER SEKURITAS (PD)"
+		},
+		{
+			"CODE": "MBMA",
+			"NAME": "PT Merdeka Battery Materials Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 795,
+			"D1": 11,
+			"W1": 1,
+			"M1": -1,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "MBMA",
+			"NAME": "PT Merdeka Battery Materials Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 795,
+			"D1": 11,
+			"W1": 1,
+			"M1": -1,
+			"UW": "UBS SEKURITAS INDONESIA (AK)"
+		},
+		{
+			"CODE": "MBMA",
+			"NAME": "PT Merdeka Battery Materials Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 795,
+			"D1": 11,
+			"W1": 1,
+			"M1": -1,
+			"UW": "MACQUARIE SEKURITAS INDONESIA (RX)"
+		},
+		{
+			"CODE": "MBMA",
+			"NAME": "PT Merdeka Battery Materials Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 795,
+			"D1": 11,
+			"W1": 1,
+			"M1": -1,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "MBMA",
+			"NAME": "PT Merdeka Battery Materials Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 795,
+			"D1": 11,
+			"W1": 1,
+			"M1": -1,
+			"UW": "ALDIRACITA SEKURITAS INDONESIA (PP)"
+		},
+		{
+			"CODE": "MBMA",
+			"NAME": "PT Merdeka Battery Materials Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 795,
+			"D1": 11,
+			"W1": 1,
+			"M1": -1,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "MENN",
+			"NAME": "PT Menn Teknologi Indonesia Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 78,
+			"D1": -9,
+			"W1": -31,
+			"M1": -45,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "MENN",
+			"NAME": "PT Menn Teknologi Indonesia Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 78,
+			"D1": -9,
+			"W1": -31,
+			"M1": -45,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "AWAN",
+			"NAME": "PT Era Digital Media Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 212,
+			"M1": 152,
+			"UW": "SAMUEL SEKURITAS INDONESIA (IF)"
+		},
+		{
+			"CODE": "AWAN",
+			"NAME": "PT Era Digital Media Tbk",
+			"DATE": "2023-04-18",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 212,
+			"M1": 152,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "JATI",
+			"NAME": "PT Informasi Teknologi Indonesia Tbk",
+			"DATE": "2023-05-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 45,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "JATI",
+			"NAME": "PT Informasi Teknologi Indonesia Tbk",
+			"DATE": "2023-05-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 114,
+			"M1": 45,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "RAAM",
+			"NAME": "PT Tripar Multivision Plus Tbk",
+			"DATE": "2023-05-08",
+			"PRICE": 234,
+			"D1": 25,
+			"W1": 201,
+			"M1": 225,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "RAAM",
+			"NAME": "PT Tripar Multivision Plus Tbk",
+			"DATE": "2023-05-08",
+			"PRICE": 234,
+			"D1": 25,
+			"W1": 201,
+			"M1": 225,
+			"UW": "SUCOR SEKURITAS (AZ)"
+		},
+		{
+			"CODE": "TYRE",
+			"NAME": "PT King Tire Indonesia Tbk",
+			"DATE": "2023-05-08",
+			"PRICE": 138,
+			"D1": 35,
+			"W1": 2,
+			"M1": -11,
+			"UW": "VICTORIA SEKURITAS INDONESIA (MI)"
+		},
+		{
+			"CODE": "DOOH",
+			"NAME": "PT Era Media Sejahtera Tbk",
+			"DATE": "2023-05-08",
+			"PRICE": 100,
+			"D1": 5,
+			"W1": -1,
+			"M1": -48,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "DOOH",
+			"NAME": "PT Era Media Sejahtera Tbk",
+			"DATE": "2023-05-08",
+			"PRICE": 100,
+			"D1": 5,
+			"W1": -1,
+			"M1": -48,
+			"UW": "KGI SEKURITAS INDONESIA (HD)"
+		},
+		{
+			"CODE": "MPXL",
+			"NAME": "PT MPX Logistics International Tbk",
+			"DATE": "2023-05-09",
+			"PRICE": 108,
+			"D1": 34,
+			"W1": 14,
+			"M1": 15,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "SMIL",
+			"NAME": "PT Sarana Mitra Luas Tbk",
+			"DATE": "2023-05-12",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 48,
+			"M1": 43,
+			"UW": "MNC SEKURITAS (EP)"
+		},
+		{
+			"CODE": "SMIL",
+			"NAME": "PT Sarana Mitra Luas Tbk",
+			"DATE": "2023-05-12",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 48,
+			"M1": 43,
+			"UW": "KB VALBURY SEKURITAS (CP)"
+		},
+		{
+			"CODE": "SMIL",
+			"NAME": "PT Sarana Mitra Luas Tbk",
+			"DATE": "2023-05-12",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 48,
+			"M1": 43,
+			"UW": "ERDIKHA ELIT SEKURITAS (AO)"
+		},
+		{
+			"CODE": "KLAS",
+			"NAME": "PT Pelayaran Kurnia Lautan Semesta Tbk",
+			"DATE": "2023-06-12",
+			"PRICE": 146,
+			"D1": 35,
+			"W1": -9,
+			"M1": -29,
+			"UW": "PANIN SEKURITAS TBK (GR)"
+		},
+		{
+			"CODE": "MAXI",
+			"NAME": "PT Maxindo Karya Anugerah Tbk",
+			"DATE": "2023-06-12",
+			"PRICE": 100,
+			"D1": -15,
+			"W1": -42,
+			"M1": -39,
+			"UW": "SHINHAN SEKURITAS INDONESIA (AH)"
+		},
+		{
+			"CODE": "VKTR",
+			"NAME": "PT VKTR Teknologi Mobilitas Tbk",
+			"DATE": "2023-06-19",
+			"PRICE": 100,
+			"D1": 11,
+			"W1": 15,
+			"M1": 30,
+			"UW": "SAMUEL SEKURITAS INDONESIA (IF)"
+		},
+		{
+			"CODE": "VKTR",
+			"NAME": "PT VKTR Teknologi Mobilitas Tbk",
+			"DATE": "2023-06-19",
+			"PRICE": 100,
+			"D1": 11,
+			"W1": 15,
+			"M1": 30,
+			"UW": "CIPTADANA SEKURITAS ASIA (KI)"
+		},
+		{
+			"CODE": "VKTR",
+			"NAME": "PT VKTR Teknologi Mobilitas Tbk",
+			"DATE": "2023-06-19",
+			"PRICE": 100,
+			"D1": 11,
+			"W1": 15,
+			"M1": 30,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK (LG)"
+		},
+		{
+			"CODE": "RELF",
+			"NAME": "PT Graha Mitra Asia Tbk",
+			"DATE": "2023-06-22",
+			"PRICE": 90,
+			"D1": 10,
+			"W1": 57,
+			"M1": 53,
+			"UW": "UOB KAY HIAN SEKURITAS (AI)"
+		},
+		{
+			"CODE": "AMMN",
+			"NAME": "PT Amman Mineral Internasional Tbk",
+			"DATE": "2023-07-07",
+			"PRICE": 1695,
+			"D1": 4,
+			"W1": 4,
+			"M1": 69,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "AMMN",
+			"NAME": "PT Amman Mineral Internasional Tbk",
+			"DATE": "2023-07-07",
+			"PRICE": 1695,
+			"D1": 4,
+			"W1": 4,
+			"M1": 69,
+			"UW": "MANDIRI SEKURITAS"
+		},
+		{
+			"CODE": "TGUK",
+			"NAME": "PT Platinum Wahab Nusantara Tbk",
+			"DATE": "2023-07-10",
+			"PRICE": 110,
+			"D1": 35,
+			"W1": 26,
+			"M1": -10,
+			"UW": "SEMESTA INDOVEST SEKURITAS"
+		},
+		{
+			"CODE": "WIDI",
+			"NAME": "PT Widiant Jaya Krenindo Tbk",
+			"DATE": "2023-07-10",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": 8,
+			"M1": 40,
+			"UW": "ARTHA SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "CRSN",
+			"NAME": "PT Carsurin Tbk",
+			"DATE": "2023-07-10",
+			"PRICE": 125,
+			"D1": 14,
+			"W1": -10,
+			"M1": -7,
+			"UW": "NH KORINDO SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "GRPM",
+			"NAME": "PT Graha Prima Mentari Tbk",
+			"DATE": "2023-07-10",
+			"PRICE": 120,
+			"D1": -10,
+			"W1": -30,
+			"M1": -38,
+			"UW": "NH KORINDO SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "INET",
+			"NAME": "PT Sinergi Inti Andalan Prima Tbk",
+			"DATE": "2023-07-24",
+			"PRICE": 101,
+			"D1": 35,
+			"W1": 100,
+			"M1": 84,
+			"UW": "SHINHAN SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "MAHA",
+			"NAME": "PT Mandiri Herindo Adiperkasa Tbk",
+			"DATE": "2023-07-25",
+			"PRICE": 118,
+			"D1": 35,
+			"W1": 132,
+			"M1": 114,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK"
+		},
+		{
+			"CODE": "RMKO",
+			"NAME": "PT Royaltama Mulia Kontraktorindo Tbk",
+			"DATE": "2023-07-31",
+			"PRICE": 450,
+			"D1": 24,
+			"W1": 21,
+			"M1": -17,
+			"UW": "VICTORIA SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "CNMA",
+			"NAME": "PT Nusantara Sejahtera Raya Tbk",
+			"DATE": "2023-08-02",
+			"PRICE": 270,
+			"D1": 17,
+			"W1": 14,
+			"M1": 1,
+			"UW": "INDO PREMIER SEKURITAS"
+		},
+		{
+			"CODE": "CNMA",
+			"NAME": "PT Nusantara Sejahtera Raya Tbk",
+			"DATE": "2023-08-02",
+			"PRICE": 270,
+			"D1": 17,
+			"W1": 14,
+			"M1": 1,
+			"UW": "JP MORGAN SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "CNMA",
+			"NAME": "PT Nusantara Sejahtera Raya Tbk",
+			"DATE": "2023-08-02",
+			"PRICE": 270,
+			"D1": 17,
+			"W1": 14,
+			"M1": 1,
+			"UW": "MANDIRI SEKURITAS"
+		},
+		{
+			"CODE": "FOLK",
+			"NAME": "PT Multi Garam Utama Tbk",
+			"DATE": "2023-08-07",
+			"PRICE": 100,
+			"D1": 13,
+			"W1": -15,
+			"M1": -27,
+			"UW": "KGI SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "FOLK",
+			"NAME": "PT Multi Garam Utama Tbk",
+			"DATE": "2023-08-07",
+			"PRICE": 100,
+			"D1": 13,
+			"W1": -15,
+			"M1": -27,
+			"UW": "SAMUEL SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "HBAT",
+			"NAME": "PT Minahasa Membangun Hebat Tbk",
+			"DATE": "2023-08-07",
+			"PRICE": 108,
+			"D1": -9,
+			"W1": -38,
+			"M1": -49,
+			"UW": "LOTUS ANDALAN SEKURITAS"
+		},
+		{
+			"CODE": "ERAL",
+			"NAME": "PT Sinar Eka Selaras Tbk",
+			"DATE": "2023-08-08",
+			"PRICE": 390,
+			"D1": 3,
+			"W1": -6,
+			"M1": -5,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "ERAL",
+			"NAME": "PT Sinar Eka Selaras Tbk",
+			"DATE": "2023-08-08",
+			"PRICE": 390,
+			"D1": 3,
+			"W1": -6,
+			"M1": -5,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "CYBR",
+			"NAME": "PT ITSEC Asia Tbk",
+			"DATE": "2023-08-08",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 132,
+			"M1": 66,
+			"UW": "MIRAE ASSET SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "PPRI",
+			"NAME": "PT Paperocks Indonesia Tbk",
+			"DATE": "2023-08-08",
+			"PRICE": 140,
+			"D1": -15,
+			"W1": -45,
+			"M1": -41,
+			"UW": "INDO CAPITAL SEKURITAS"
+		},
+		{
+			"CODE": "GRIA",
+			"NAME": "PT Ingria Pratama Capitalindo Tbk",
+			"DATE": "2023-08-08",
+			"PRICE": 120,
+			"D1": -2,
+			"W1": -2,
+			"M1": -5,
+			"UW": "ERDIKHA ELIT SEKURITAS"
+		},
+		{
+			"CODE": "LMAX",
+			"NAME": "PT Lupromax Pelumas Indonesia Tbk",
+			"DATE": "2023-08-09",
+			"PRICE": 200,
+			"D1": 10,
+			"W1": 46,
+			"M1": 0,
+			"UW": "SHINHAN SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "HUMI",
+			"NAME": "PT Humpuss Maritim Internasional Tbk",
+			"DATE": "2023-08-09",
+			"PRICE": 100,
+			"D1": 2,
+			"W1": 51,
+			"M1": 89,
+			"UW": "RELIANCE SEKURITAS INDONESIA TBK"
+		},
+		{
+			"CODE": "MUTU",
+			"NAME": "PT Mutuagung Lestari Tbk",
+			"DATE": "2023-08-09",
+			"PRICE": 108,
+			"D1": 34,
+			"W1": 23,
+			"M1": 69,
+			"UW": "TRIMEGAH SEKURITAS INDONESIA TBK"
+		},
+		{
+			"CODE": "MSIE",
+			"NAME": "PT Multisarana Intan Eduka Tbk",
+			"DATE": "2023-08-10",
+			"PRICE": 100,
+			"D1": -10,
+			"W1": -40,
+			"M1": -58,
+			"UW": "MNC SEKURITAS"
+		},
+		{
+			"CODE": "RSCH",
+			"NAME": "PT Charlie Hospital Semarang Tbk",
+			"DATE": "2023-08-28",
+			"PRICE": 115,
+			"D1": 14,
+			"W1": 16,
+			"M1": 5,
+			"UW": "SHINHAN SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "BABY",
+			"NAME": "PT Multitrend Indo Tbk",
+			"DATE": "2023-09-07",
+			"PRICE": 266,
+			"D1": 9,
+			"W1": -2,
+			"M1": 2,
+			"UW": "UOB KAY HIAN SEKURITAS"
+		},
+		{
+			"CODE": "AEGS",
+			"NAME": "PT Anugerah Spareparts Sejahtera Tbk",
+			"DATE": "2023-09-11",
+			"PRICE": 100,
+			"D1": -5,
+			"W1": -32,
+			"M1": -41,
+			"UW": "SHINHAN SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "IOTF",
+			"NAME": "PT Sumber Sinergi Makmur Tbk",
+			"DATE": "2023-10-06",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 5,
+			"M1": 9,
+			"UW": "SHINHAN SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "KOCI",
+			"NAME": "PT Kokoh Exa Nusantara Tbk",
+			"DATE": "2023-10-06",
+			"PRICE": 120,
+			"D1": -30,
+			"W1": -43,
+			"M1": -58,
+			"UW": "PANCA GLOBAL SEKURITAS"
+		},
+		{
+			"CODE": "PTPS",
+			"NAME": "PT Pulau Subur Tbk",
+			"DATE": "2023-10-09",
+			"PRICE": 198,
+			"D1": -35,
+			"W1": -47,
+			"M1": -30,
+			"UW": "NH KORINDO SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "BREN",
+			"NAME": "PT Barito Renewables Energy Tbk",
+			"DATE": "2023-10-09",
+			"PRICE": 780,
+			"D1": 25,
+			"W1": 203,
+			"M1": 464,
+			"UW": "BNI SEKURITAS (NI)"
+		},
+		{
+			"CODE": "STRK",
+			"NAME": "PT Lovina Beach Brewery Tbk",
+			"DATE": "2023-10-10",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 128,
+			"M1": 210,
+			"UW": "ARTHA SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "LOPI",
+			"NAME": "PT Logisticsplus International Tbk",
+			"DATE": "2023-10-11",
+			"PRICE": 100,
+			"D1": -10,
+			"W1": -14,
+			"M1": -30,
+			"UW": "ELIT SUKSES SEKURITAS"
+		},
+		{
+			"CODE": "KOKA",
+			"NAME": "PT Koka Indonesia Tbk",
+			"DATE": "2023-10-11",
+			"PRICE": 128,
+			"D1": 33,
+			"W1": -13,
+			"M1": -52,
+			"UW": "UOB KAY HIAN SEKURITAS"
+		},
+		{
+			"CODE": "UDNG",
+			"NAME": "PT Agro Bahari Nusantara Tbk",
+			"DATE": "2023-10-31",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -5,
+			"M1": 20,
+			"UW": "MNC SEKURITAS"
+		},
+		{
+			"CODE": "UDNG",
+			"NAME": "PT Agro Bahari Nusantara Tbk",
+			"DATE": "2023-10-31",
+			"PRICE": 100,
+			"D1": 10,
+			"W1": -5,
+			"M1": 20,
+			"UW": "KB VALBURY SEKURITAS"
+		},
+		{
+			"CODE": "IKPM",
+			"NAME": "PT Ikapharmindo Putramas Tbk",
+			"DATE": "2023-11-08",
+			"PRICE": 165,
+			"D1": 10,
+			"W1": 5,
+			"M1": 16,
+			"UW": "OCBC SEKURITAS INDONESIA"
+		},
+		{
+			"CODE": "MSTI",
+			"NAME": "PT Mastersystem Infotama Tbk",
+			"DATE": "2023-11-08",
+			"PRICE": 1355,
+			"D1": 7,
+			"W1": 2,
+			"M1": 0,
+			"UW": "INDO PREMIER SEKURITAS"
+		},
+		{
+			"CODE": "RGAS",
+			"NAME": "PT Kian Santang Muliatama Tbk",
+			"DATE": "2023-11-08",
+			"PRICE": 120,
+			"D1": 4,
+			"W1": -8,
+			"M1": -13,
+			"UW": "ERDIKHA ELIT SEKURITAS"
+		},
+		{
+			"CODE": "AYAM",
+			"NAME": "PT Janu Putra Sejahtera Tbk",
+			"DATE": "2023-11-30",
+			"PRICE": 100,
+			"D1": 35,
+			"W1": 11,
+			"M1": 10,
+			"UW": "UOB KAY HIAN SEKURITAS"
+		},
+		{
+			"CODE": "SURI",
+			"NAME": "PT Maja Agung Latexindo Tbk",
+			"DATE": "2023-12-07",
+			"PRICE": 170,
+			"D1": -5,
+			"W1": -4,
+			"M1": -1,
+			"UW": "SHINHAN SEKURITAS INDONESIA"
+		}
+	]
+}

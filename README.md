@@ -1,4 +1,4 @@
-# ipo
+# IPO
 
 To install dependencies:
 
