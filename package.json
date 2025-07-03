@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "bun run --watch index.js",
-    "build": "pnpx tailwindcss -i ./assets/input.css -o ./assets/style.css --watch --minify"
+    "build": "pnpx tailwindcss -i ./assets/input.css -o ./assets/style.css --minify"
   },
   "devDependencies": {
     "@types/bun": "latest",

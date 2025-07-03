@@ -1,34 +1,36 @@
 let table = document.getElementById("myTable");
 
+let ipoDataCache = null;
+
 async function postData() {
+	if (ipoDataCache) return ipoDataCache;
 	const response = await fetch("./assets/IPO_HISTORY.json");
-	return response.json();
+	ipoDataCache = await response.json();
+	return ipoDataCache;
 }
 
 $(document).ready(function () {
 	$.ajaxSetup({ cache: false });
 
-	// INIT data
-	searchData(0);
+	searchData("");
 
-	// search user input
-	$("#uw").keyup(function () {
+	$("#uw").on("input", function () {
 		table.innerHTML = "";
-		searchData(1);
+		searchData($(this).val());
 	});
 
-	function searchData(int) {
-		let expression = new RegExp($("#uw").val(), "i");
+	function searchData(query) {
+		const expression = new RegExp(query, "i");
 
 		postData().then((data) => {
-			$.each(data.ipo, function (key, value) {
-				if (int === 0) {
+			$.each(data.ipo, function (_, value) {
+				if (!query) {
 					renderData(value);
-				} else if (int === 1) {
+				} else {
 					if (
-						value.UW.search(expression) != -1 ||
-						value.CODE.search(expression) != -1 ||
-						value.NAME.search(expression) != -1
+						(typeof value.UW === "string" && value.UW.search(expression) !== -1) ||
+						(typeof value.CODE === "string" && value.CODE.search(expression) !== -1) ||
+						(typeof value.NAME === "string" && value.NAME.search(expression) !== -1)
 					) {
 						renderData(value);
 					}
@@ -38,7 +40,7 @@ $(document).ready(function () {
 	}
 
 	function renderData(value) {
-		let row = table.insertRow(0);
+		let row = table.insertRow(-1);
 		for (let i = 0; i <= 7; i++) {
 			let data = row.insertCell(i);
 			data.classList.add("px-3", "border", "border-black", "dark:border-slate-100");
