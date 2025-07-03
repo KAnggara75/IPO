@@ -1,23 +1,54 @@
-import { parse } from 'node-html-parser';
+import { parse } from "node-html-parser";
 
 export default class Detail {
 	constructor(url) {
-		this.response = this.init(url);
+		this.url = url;
+		this._html = null;
 	}
-	async init(url) {
-		const rest = await fetch(url);
-		return await rest.text();
+
+	async fetchHtml() {
+		if (!this.url || typeof this.url !== "string" || !/^https?:\/\//.test(this.url)) {
+			console.error("Invalid or empty URL provided to Detail");
+			return null;
+		}
+		try {
+			const res = await fetch(this.url);
+			if (!res.ok) {
+				console.error(`HTTP error: ${res.status}`);
+				return null;
+			}
+			this._html = await res.text();
+			return this._html;
+		} catch (e) {
+			console.error("Failed to fetch:", e);
+			return null;
+		}
 	}
 
 	async getDetail() {
 		try {
-			const document = parse(await this.response);
-			const ticker = document.querySelector('p:nth-child(2)').firstChild.textContent;
-			const underwriter = document.querySelector('div.panel-body.panel-scroll').getElementsByTagName('p');
-			const uw = underwriter[underwriter.length - 1].firstChild.textContent;
+			if (!this._html) {
+				await this.fetchHtml();
+			}
+			if (!this._html) {
+				console.error("No HTML to parse");
+				return [];
+			}
+			const document = parse(this._html);
+
+			const tickerElem = document.querySelector("p:nth-child(2)");
+			const ticker = tickerElem && tickerElem.firstChild ? tickerElem.firstChild.textContent.trim() : "";
+
+			const underwriterList = document.querySelector("div.panel-body.panel-scroll")?.getElementsByTagName("p");
+			let uw = "";
+			if (underwriterList && underwriterList.length > 0) {
+				const lastUW = underwriterList[underwriterList.length - 1];
+				uw = lastUW?.firstChild?.textContent?.trim() || "";
+			}
+
 			return [ticker, uw];
 		} catch (error) {
-			console.error(error);
+			console.error("Error in getDetail:", error);
 			return [];
 		}
 	}
