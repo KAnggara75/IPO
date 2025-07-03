@@ -1,8 +1,9 @@
 import { parse } from 'node-html-parser';
 
 export default class Scraper {
-	constructor(page) {
-		this.response = this.init(page);
+	constructor(page = 1) {
+		this.page = page;
+		this._html = null;
 	}
 
 	async init(page = 1) {
