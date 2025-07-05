@@ -9,27 +9,41 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 </head>
 
-<body class="mx-4 space-y-8 bg-white p-10 text-center dark:bg-slate-900 dark:text-slate-200">
-	<label class="dark:text-white" for="uw">Searching:
-		<input class="ml-3 w-3/5 rounded-full border border-black px-3 dark:border-white dark:bg-slate-800" id="uw"
-			placeholder="Cari UW/TICKER..." type="text" />
-	</label>
+<body class="bg-white dark:bg-slate-900 dark:text-slate-200 min-h-screen">
 
-	<table class="table-fixed border-collapse border border-slate-600 mt-8">
-		<thead>
-			<tr class="table-style bg-slate-400">
-				<th class="table-style">CODE</th>
-				<th class="table-style">NAME</th>
-				<th class="table-style">DATE</th>
-				<th class="table-style">PRICE</th>
-				<th class="table-style">1D</th>
-				<th class="table-style">1W</th>
-				<th class="table-style">1M</th>
-				<th class="table-style">UW</th>
-			</tr>
-		</thead>
-		<tbody class="table-style" id="myTable"></tbody>
-	</table>
+	<div class="container mx-auto p-4 md:p-10 space-y-8">
+		<!-- Search bar -->
+		<div class="flex flex-col items-center">
+			<label class="text-slate-900 dark:text-white mb-2" for="uw">
+				Searching:
+			</label>
+			<input
+				class="w-full md:w-3/5 rounded-full border border-black dark:border-white px-4 py-2 dark:bg-slate-800 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
+				id="uw" placeholder="Cari UW/TICKER..." type="text" />
+		</div>
+
+		<!-- Responsive table -->
+		<div class="overflow-x-auto">
+			<table class="min-w-full table-fixed border-collapse border border-slate-600 mt-8">
+				<thead>
+					<tr class="bg-slate-400 dark:bg-slate-700">
+						<th class="py-2 px-4 border border-slate-600" scope="col">CODE</th>
+						<th class="py-2 px-4 border border-slate-600" scope="col">NAME</th>
+						<th class="py-2 px-4 border border-slate-600" scope="col">DATE</th>
+						<th class="py-2 px-4 border border-slate-600" scope="col">PRICE</th>
+						<th class="py-2 px-4 border border-slate-600" scope="col">1D</th>
+						<th class="py-2 px-4 border border-slate-600" scope="col">1W</th>
+						<th class="py-2 px-4 border border-slate-600" scope="col">1M</th>
+						<th class="py-2 px-4 border border-slate-600" scope="col">UW</th>
+					</tr>
+				</thead>
+				<tbody id="myTable">
+					<!-- Your JS will insert table rows here -->
+				</tbody>
+			</table>
+		</div>
+	</div>
+
 	<script src="./assets/script.js" type="module"></script>
 </body>
 
