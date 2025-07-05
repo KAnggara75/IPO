@@ -1,36 +1,39 @@
-import Page from "./src/page";
-import Detail from "./src/detail";
-import Scraper from "./src/scraper";
+#!/usr/bin/env bun
 
-const path = "./IPO.csv";
-const pathMD = "./IPO.md";
+import Page from "./page.ts";
+import Detail from "./detail";
+import Scraper from "./scraper";
+import type { BunFile, FileSink } from "bun";
+
+const path: string = "./IPO.csv";
+const pathMD: string = "./IPO.md";
 
 // CSV
 await Bun.write(path, "");
-const fileCsv = Bun.file(path);
-const csvOut = fileCsv.writer();
+const fileCsv: BunFile = Bun.file(path);
+const csvOut: FileSink = fileCsv.writer();
 csvOut.write("Ticker,Underwriter,Name,Price,Date,Status,Link\n");
 
 // Markdown
 await Bun.write(pathMD, "");
-const fileMD = Bun.file(pathMD);
-const mdOut = fileMD.writer();
+const fileMD: BunFile = Bun.file(pathMD);
+const mdOut: FileSink = fileMD.writer();
 mdOut.write("# IPO IDX\n\n");
 mdOut.write("| Ticker | Underwriter | Name | Price | Date | Status |\n");
 mdOut.write("| ------ | :---------: | ---: | ----- | ---- | ------ |\n");
 
-const maxPage = await getLastPage();
+const maxPage: number = await getLastPage();
 await getData(maxPage);
 
-async function getLastPage() {
-	let pageNumber = 1;
-	let maxFound = 1;
-	let isLast = false;
+async function getLastPage(): Promise<number> {
+	let pageNumber: number = 1;
+	let maxFound: number = 1;
+	let isLast: boolean = false;
 
 	while (!isLast) {
 		try {
 			const page = new Page(pageNumber);
-			const last = await page.getLastPage();
+			const last: number = await page.getLastPage();
 			if (last > pageNumber) {
 				pageNumber = last;
 				maxFound = last;
@@ -46,17 +49,17 @@ async function getLastPage() {
 	return maxFound;
 }
 
-async function getData(maxPage) {
-	for (let pageNo = 1; pageNo <= maxPage; pageNo++) {
+async function getData(maxPage: number): Promise<void> {
+	for (let pageNo: number = 1; pageNo <= maxPage; pageNo++) {
 		const scraper = new Scraper(pageNo);
-		const itemCount = await scraper.getPageItemCount();
-		for (let itemNo = 1; itemNo <= itemCount; itemNo++) {
+		const itemCount: number = await scraper.getPageItemCount();
+		for (let itemNo: number = 1; itemNo <= itemCount; itemNo++) {
 			try {
-				const basicIPO = await scraper.getItemData(itemNo);
+				const basicIPO: [string, string, string, string] = await scraper.getItemData(itemNo);
 				if (basicIPO && basicIPO.length >= 4 && basicIPO[2]) {
 					const detail = new Detail(basicIPO[2]);
-					const detailData = await detail.getDetail();
-					const date = basicIPO[3].slice(-11).trim();
+					const detailData: string[] = await detail.getDetail();
+					const date: string = basicIPO[3].slice(-11).trim();
 					const [ticker, underwriter] = detailData.length >= 2 ? detailData : ["", ""];
 
 					console.log(`${ticker} | ${date}`);

@@ -2,11 +2,11 @@
 
 | Ticker | Underwriter | Name | Price | Date | Status |
 | ------ | :---------: | ---: | ----- | ---- | ------ |
-| [PSAT](https://www.e-ipo.co.id/id/ipo/341/psat-pt-pancaran-samudera-transport-tbk) |LG - TRIMEGAH SEKURITAS INDONESIA TBK.|PT Pancaran Samudera Transport Tbk (PSAT)|900|25 Jun 2025| - |
+| [CDIA](https://www.e-ipo.co.id/id/ipo/336/cdia-pt-chandra-daya-investasi-tbk) |HP - HENAN PUTIHRAI SEKURITAS|PT Chandra Daya Investasi Tbk (CDIA)|190|24 Jun 2025| - |
+| [PSAT](https://www.e-ipo.co.id/id/ipo/341/psat-pt-pancaran-samudera-transport-tbk) |LG - TRIMEGAH SEKURITAS INDONESIA TBK.|PT Pancaran Samudera Transport Tbk (PSAT)|900|08 Jul 2025| - |
+| [ASPR](https://www.e-ipo.co.id/id/ipo/340/aspr-pt-asia-pramulia-tbk) |XA - NH KORINDO SEKURITAS INDONESIA|PT Asia Pramulia Tbk (ASPR)|124|08 Jul 2025| - |
 | [MERI](https://www.e-ipo.co.id/id/ipo/342/meri-pt-merry-riana-edukasi-tbk) |YJ - LOTUS ANDALAN SEKURITAS|PT Merry Riana Edukasi Tbk (MERI)|128|26 Jun 2025| - |
 | [PMUI](https://www.e-ipo.co.id/id/ipo/343/pmui-pt-prima-multi-usaha-indonesia-tbk) |BQ - KOREA INVESTMENT AND SEKURITAS INDONESIA|PT Prima Multi Usaha Indonesia Tbk (PMUI)|180|26 Jun 2025| - |
-| [ASPR](https://www.e-ipo.co.id/id/ipo/340/aspr-pt-asia-pramulia-tbk) |XA - NH KORINDO SEKURITAS INDONESIA|PT Asia Pramulia Tbk (ASPR)|124|25 Jun 2025| - |
-| [CDIA](https://www.e-ipo.co.id/id/ipo/336/cdia-pt-chandra-daya-investasi-tbk) |HP - HENAN PUTIHRAI SEKURITAS|PT Chandra Daya Investasi Tbk (CDIA)|190|24 Jun 2025| - |
 | [COIN](https://www.e-ipo.co.id/id/ipo/339/coin-pt-indokripto-koin-semesta-tbk) |KI - CIPTADANA SEKURITAS ASIA|PT Indokripto Koin Semesta Tbk (COIN)|100|25 Jun 2025| - |
 | [CHEK](https://www.e-ipo.co.id/id/ipo/337/chek-pt-diastika-biotekindo-tbk) |YJ - LOTUS ANDALAN SEKURITAS|PT Diastika Biotekindo Tbk (CHEK)|128|25 Jun 2025| - |
 | [BLOG](https://www.e-ipo.co.id/id/ipo/338/blog-pt-trimitra-trans-persada-tbk) |SQ - BCA SEKURITAS|PT Trimitra Trans Persada Tbk (BLOG)|250|25 Jun 2025| - |
