@@ -7,8 +7,7 @@
     "build": "pnpx tailwindcss -i ./assets/input.css -o ./assets/style.css --minify"
   },
   "devDependencies": {
-    "@types/bun": "latest",
-    "prettier": "^3.3.2",
+    "prettier": "^3.6.2",
     "prettier-plugin-tailwindcss": "^0.6.5",
     "tailwindcss": "^3.4.4"
   },
