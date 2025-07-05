@@ -1,7 +1,8 @@
 import { parse } from "node-html-parser";
 import HTMLElement from "node-html-parser/dist/nodes/html";
+import Node from "node-html-parser/dist/nodes/node";
 
-export default class Page {
+export default class IpoPage {
 	private readonly page: number;
 	private response?: string;
 
@@ -30,7 +31,7 @@ export default class Page {
 				.querySelector("#w0 > div.row.margin-top20 > div.col-md-7 > ul")
 				?.getElementsByTagName("li");
 			if (pageList && pageList.length >= 2) {
-				const target = pageList[pageList.length - 2].firstChild;
+				const target: Node | undefined = pageList[pageList.length - 2].firstChild;
 				return target ? parseInt(target.textContent.trim(), 10) : 1;
 			}
 			return 1;

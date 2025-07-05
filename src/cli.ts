@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import Page from "./page.ts";
+import IpoPage from "./ipo-page";
 import Detail from "./detail";
 import Scraper from "./scraper";
 import type { BunFile, FileSink } from "bun";
@@ -32,7 +32,7 @@ async function getLastPage(): Promise<number> {
 
 	while (!isLast) {
 		try {
-			const page = new Page(pageNumber);
+			const page = new IpoPage(pageNumber);
 			const last: number = await page.getLastPage();
 			if (last > pageNumber) {
 				pageNumber = last;
