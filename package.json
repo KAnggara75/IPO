@@ -3,8 +3,8 @@
   "module": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "bun run --watch index.js",
-    "build": "pnpx @tailwindcss/cli -i ./assets/input.css -o ./assets/style.css --minify"
+    "dev": "pnpx @tailwindcss/cli -i ./assets/input.css -o ./assets/style.css --minify --watch",
+    "build": "pnpx @tailwindcss/cli -i ./assets/input.css -o ./assets/style.css --minify --watch"
   },
   "devDependencies": {
     "prettier": "^3.6.2",
