@@ -1,5 +1,4 @@
-import { parse } from "node-html-parser";
-import HTMLElement from "node-html-parser/dist/nodes/html";
+import { type HTMLElement, parse } from "node-html-parser";
 import Node from "node-html-parser/dist/nodes/node";
 
 export default class IpoPage {

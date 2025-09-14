@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import IpoPage from "./ipo-page";
-import Detail from "./detail";
+import Detail from "./ipo-detail";
 import Scraper from "./scraper";
 import type { BunFile, FileSink } from "bun";
 
@@ -59,6 +59,7 @@ async function getData(maxPage: number): Promise<void> {
 				if (basicIPO && basicIPO.length >= 4 && basicIPO[2]) {
 					const detail = new Detail(basicIPO[2]);
 					const detailData: string[] = await detail.getDetail();
+					console.info(detailData);
 					const date: string = basicIPO[3].slice(-11).trim();
 					const [ticker, underwriter] = detailData.length >= 2 ? detailData : ["", ""];
 

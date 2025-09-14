@@ -1,4 +1,4 @@
-import Scraper from "../src/scraper.js";
+import Scraper from "../src/scraper.ts";
 
 (async () => {
 	const scraper = new Scraper(1);
